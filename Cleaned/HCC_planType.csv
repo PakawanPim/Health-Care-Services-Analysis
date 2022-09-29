@@ -1,0 +1,1003 @@
+"plan_type","HCCI_category","HCCI_subcategory","Year","spending_per_member","OOP_spending_per_member","adjusted_price","adjusted_utilization_per_1000","annual_pct_change_spending_per_member","annual_pct_change_adjusted_price","annual_pct_change_adjusted_utilization_per_1000"
+"CDHP","Inpatient","All Inpatient",2014,"888.316","60.691","17,675.11","50.258",0,0,0
+"CDHP","Inpatient","All Inpatient",2015,"904.453","59.763","18,281.85","49.473",0.018,0.034,-0.016
+"CDHP","Inpatient","All Inpatient",2016,"956.342","56.989","18,951.62","50.462",0.057,0.037,0.02
+"CDHP","Inpatient","All Inpatient",2017,"991.411","57.16","19,624.08","50.52",0.037,0.035,0.001
+"CDHP","Inpatient","Hospice",2014,"1.576","0.17","4,972.80","0.317",0,0,0
+"CDHP","Inpatient","Hospice",2015,"1.58","0.167","4,784.16","0.33",0.003,-0.038,0.042
+"CDHP","Inpatient","Hospice",2016,"1.494","0.18","4,534.82","0.329",-0.055,-0.052,-0.003
+"CDHP","Inpatient","Hospice",2017,"1.686","0.184","5,515.33","0.306",0.128,0.216,-0.072
+"CDHP","Inpatient","Labor/Delivery/Newborns",2014,"158.87","22.353","8,526.25","18.633",0,0,0
+"CDHP","Inpatient","Labor/Delivery/Newborns",2015,"165.258","22.294","8,777.82","18.827",0.04,0.03,0.01
+"CDHP","Inpatient","Labor/Delivery/Newborns",2016,"175.807","22.499","9,057.79","19.409",0.064,0.032,0.031
+"CDHP","Inpatient","Labor/Delivery/Newborns",2017,"181.211","23.085","9,075.51","19.967",0.031,0.002,0.029
+"CDHP","Inpatient","Medical",2014,"250.665","17.45","16,938.35","14.799",0,0,0
+"CDHP","Inpatient","Medical",2015,"255.785","16.927","17,697.58","14.453",0.02,0.045,-0.023
+"CDHP","Inpatient","Medical",2016,"260.484","15.473","18,331.43","14.21",0.018,0.036,-0.017
+"CDHP","Inpatient","Medical",2017,"268.836","15.059","19,134.05","14.05",0.032,0.044,-0.011
+"CDHP","Inpatient","Mental Health",2014,"21.811","3.266","8,277.20","2.635",0,0,0
+"CDHP","Inpatient","Mental Health",2015,"22.199","3.163","8,630.87","2.572",0.018,0.043,-0.024
+"CDHP","Inpatient","Mental Health",2016,"23.669","3.162","8,993.83","2.632",0.066,0.042,0.023
+"CDHP","Inpatient","Mental Health",2017,"27.198","3.435","9,352.07","2.908",0.149,0.04,0.105
+"CDHP","Inpatient","Other",2014,"1.125","0.181","7,338.09","0.153",0,0,0
+"CDHP","Inpatient","Other",2015,"1.118","0.177","7,168.34","0.156",-0.006,-0.023,0.017
+"CDHP","Inpatient","Other",2016,"1.359","0.19","8,945.51","0.152",0.216,0.248,-0.025
+"CDHP","Inpatient","Other",2017,"1.347","0.204","8,174.59","0.165",-0.009,-0.086,0.085
+"CDHP","Inpatient","SNF",2014,"5.385","0.33","6,427.51","0.838",0,0,0
+"CDHP","Inpatient","SNF",2015,"4.894","0.296","5,998.94","0.816",-0.091,-0.067,-0.026
+"CDHP","Inpatient","SNF",2016,"4.735","0.233","6,335.51","0.747",-0.033,0.056,-0.084
+"CDHP","Inpatient","SNF",2017,"4.532","0.258","5,963.95","0.76",-0.043,-0.059,0.017
+"CDHP","Inpatient","Substance Use",2014,"11.676","2.06","8,991.08","1.299",0,0,0
+"CDHP","Inpatient","Substance Use",2015,"12.96","2.442","9,600.82","1.35",0.11,0.068,0.039
+"CDHP","Inpatient","Substance Use",2016,"15.772","2.775","10,590.41","1.489",0.217,0.103,0.103
+"CDHP","Inpatient","Substance Use",2017,"18.894","3.107","12,092.03","1.562",0.198,0.142,0.049
+"CDHP","Inpatient","Surgical",2014,"437.209","14.881","37,740.22","11.585",0,0,0
+"CDHP","Inpatient","Surgical",2015,"440.659","14.298","39,004.56","11.298",0.008,0.034,-0.025
+"CDHP","Inpatient","Surgical",2016,"473.022","12.478","40,528.63","11.671",0.073,0.039,0.033
+"CDHP","Inpatient","Surgical",2017,"487.707","11.829","42,627.43","11.441",0.031,0.052,-0.02
+"CDHP","Outpatient","All Outpatient",2014,"1,281.95","315.954","498.534","2,571.44",0,0,0
+"CDHP","Outpatient","All Outpatient",2015,"1,329.81","325.754","510.726","2,603.76",0.037,0.024,0.013
+"CDHP","Outpatient","All Outpatient",2016,"1,413.93","340.493","526.56","2,685.23",0.063,0.03,0.032
+"CDHP","Outpatient","All Outpatient",2017,"1,489.03","352.558","558.059","2,668.23",0.053,0.06,-0.006
+"CDHP","Outpatient","All Outpatient Procedures",2014,"475.952","121.627","208.767","2,279.82",0,0,0
+"CDHP","Outpatient","All Outpatient Procedures",2015,"489.919","123.571","210.378","2,328.76",0.029,0.008,0.021
+"CDHP","Outpatient","All Outpatient Procedures",2016,"520.526","129.559","213.53","2,437.72",0.062,0.015,0.047
+"CDHP","Outpatient","All Outpatient Procedures",2017,"542.68","133.102","224.592","2,416.29",0.043,0.052,-0.009
+"CDHP","Outpatient","Ambulance",2014,"27.895","4.937","643.928","43.32",0,0,0
+"CDHP","Outpatient","Ambulance",2015,"29.47","5.079","672.129","43.845",0.056,0.044,0.012
+"CDHP","Outpatient","Ambulance",2016,"31.88","5.197","699.032","45.606",0.082,0.04,0.04
+"CDHP","Outpatient","Ambulance",2017,"33.132","5.221","722.609","45.851",0.039,0.034,0.005
+"CDHP","Outpatient","DME",2014,"41.307","12.977","139.056","297.055",0,0,0
+"CDHP","Outpatient","DME",2015,"43.113","13.414","138.281","311.779",0.044,-0.006,0.05
+"CDHP","Outpatient","DME",2016,"45.292","14.05","137.784","328.716",0.051,-0.004,0.054
+"CDHP","Outpatient","DME",2017,"46.469","14.305","139.404","333.344",0.026,0.012,0.014
+"CDHP","Outpatient","Lab",2014,"66.185","23.84","66.15","1,000.54",0,0,0
+"CDHP","Outpatient","Lab",2015,"65.738","23.593","63.888","1,028.95",-0.007,-0.034,0.028
+"CDHP","Outpatient","Lab",2016,"73.572","25.528","65.304","1,126.61",0.119,0.022,0.095
+"CDHP","Outpatient","Lab",2017,"74.813","26.915","64.209","1,165.15",0.017,-0.017,0.034
+"CDHP","Outpatient","Other Outpatient",2014,"159.638","31.93","274.986","580.532",0,0,0
+"CDHP","Outpatient","Other Outpatient",2015,"168.734","33.111","284.046","594.038",0.057,0.033,0.023
+"CDHP","Outpatient","Other Outpatient",2016,"179.285","34.924","284.814","629.48",0.063,0.003,0.06
+"CDHP","Outpatient","Other Outpatient",2017,"190.783","36.186","294.788","647.188",0.064,0.035,0.028
+"CDHP","Outpatient","Radiology",2014,"180.927","47.943","504.85","358.377",0,0,0
+"CDHP","Outpatient","Radiology",2015,"182.864","48.374","515.543","354.702",0.011,0.021,-0.01
+"CDHP","Outpatient","Radiology",2016,"190.498","49.859","531.203","358.617",0.042,0.03,0.011
+"CDHP","Outpatient","Radiology",2017,"197.483","50.474","609.341","324.092",0.037,0.147,-0.096
+"CDHP","Outpatient","All Outpatient Visits",2014,"805.999","194.327","2,763.83","291.624",0,0,0
+"CDHP","Outpatient","All Outpatient Visits",2015,"839.891","202.183","2,856.78","293.999",0.042,0.034,0.008
+"CDHP","Outpatient","All Outpatient Visits",2016,"893.405","210.934","2,969.12","300.899",0.064,0.039,0.023
+"CDHP","Outpatient","All Outpatient Visits",2017,"946.349","219.456","3,161.07","299.376",0.059,0.065,-0.005
+"CDHP","Outpatient","ER",2014,"282.668","110.656","1,732.45","163.161",0,0,0
+"CDHP","Outpatient","ER",2015,"302.309","117.684","1,809.76","167.044",0.069,0.045,0.024
+"CDHP","Outpatient","ER",2016,"327.753","126.773","1,888.92","173.513",0.084,0.044,0.039
+"CDHP","Outpatient","ER",2017,"350.678","134.754","1,994.51","175.822",0.07,0.056,0.013
+"CDHP","Outpatient","Observation",2014,"37.564","5.038","1,952.04","19.244",0,0,0
+"CDHP","Outpatient","Observation",2015,"38.606","4.969","2,027.20","19.044",0.028,0.038,-0.01
+"CDHP","Outpatient","Observation",2016,"38.336","4.907","2,049.92","18.701",-0.007,0.011,-0.018
+"CDHP","Outpatient","Observation",2017,"43.811","5.221","2,243.28","19.53",0.143,0.094,0.044
+"CDHP","Outpatient","Surgery",2014,"485.766","78.633","4,447.62","109.219",0,0,0
+"CDHP","Outpatient","Surgery",2015,"498.976","79.531","4,550.00","109.665",0.027,0.023,0.004
+"CDHP","Outpatient","Surgery",2016,"527.315","79.254","4,712.45","111.898",0.057,0.036,0.02
+"CDHP","Outpatient","Surgery",2017,"551.86","79.48","4,996.18","110.456",0.047,0.06,-0.013
+"CDHP","Professional","Administered Drugs",2014,"160.409","10.111","494.57","324.34",0,0,0
+"CDHP","Professional","Administered Drugs",2015,"176.818","10.518","563.33","313.879",0.102,0.139,-0.032
+"CDHP","Professional","Administered Drugs",2016,"198.55","10.638","656.183","302.583",0.123,0.165,-0.036
+"CDHP","Professional","Administered Drugs",2017,"225.665","11.755","740.98","304.55",0.137,0.129,0.007
+"CDHP","Professional","Administration of Drugs",2014,"28.027","3.129","44.863","624.729",0,0,0
+"CDHP","Professional","Administration of Drugs",2015,"28.442","3.127","43.858","648.508",0.015,-0.022,0.038
+"CDHP","Professional","Administration of Drugs",2016,"30.07","3.134","44.823","670.852",0.057,0.022,0.034
+"CDHP","Professional","Administration of Drugs",2017,"30.804","3.238","46.295","665.373",0.024,0.033,-0.008
+"CDHP","Professional","All Professional Services",2014,"1,536.74","504.665","103.737","14,813.79",0,0,0
+"CDHP","Professional","All Professional Services",2015,"1,585.85","516.853","105.914","14,972.97",0.032,0.021,0.011
+"CDHP","Professional","All Professional Services",2016,"1,667.25","529.615","108.931","15,305.53",0.051,0.028,0.022
+"CDHP","Professional","All Professional Services",2017,"1,730.81","541.325","112.599","15,371.49",0.038,0.034,0.004
+"CDHP","Professional","Anesthesia",2014,"96.265","17.7","737.433","130.541",0,0,0
+"CDHP","Professional","Anesthesia",2015,"99.468","17.94","750.879","132.468",0.033,0.018,0.015
+"CDHP","Professional","Anesthesia",2016,"104.313","17.443","763.006","136.713",0.049,0.016,0.032
+"CDHP","Professional","Anesthesia",2017,"107.952","17.663","773.778","139.512",0.035,0.014,0.02
+"CDHP","Professional","ER",2014,"67.918","22.702","392.645","172.975",0,0,0
+"CDHP","Professional","ER",2015,"72.8","24.75","410.686","177.266",0.072,0.046,0.025
+"CDHP","Professional","ER",2016,"78.459","26.191","420.216","186.71",0.078,0.023,0.053
+"CDHP","Professional","ER",2017,"81.966","26.742","428.513","191.279",0.045,0.02,0.024
+"CDHP","Professional","Immunizations",2014,"33.039","0.517","62.1","532.032",0,0,0
+"CDHP","Professional","Immunizations",2015,"34.811","0.472","63.574","547.574",0.054,0.024,0.029
+"CDHP","Professional","Immunizations",2016,"38.988","0.454","64.62","603.338",0.12,0.016,0.102
+"CDHP","Professional","Immunizations",2017,"39.627","0.474","66.588","595.105",0.016,0.03,-0.014
+"CDHP","Professional","Lab",2014,"139.703","58.429","32.211","4,337.08",0,0,0
+"CDHP","Professional","Lab",2015,"143.846","59.093","31.755","4,529.91",0.03,-0.014,0.044
+"CDHP","Professional","Lab",2016,"134.553","56.404","30.213","4,453.44",-0.065,-0.049,-0.017
+"CDHP","Professional","Lab",2017,"133.651","56.145","29.455","4,537.39",-0.007,-0.025,0.019
+"CDHP","Professional","Office Visits",2014,"349.198","160.552","111.296","3,137.57",0,0,0
+"CDHP","Professional","Office Visits",2015,"358.98","165.099","113.173","3,171.96",0.028,0.017,0.011
+"CDHP","Professional","Office Visits",2016,"375.386","171.257","115.527","3,249.33",0.046,0.021,0.024
+"CDHP","Professional","Office Visits",2017,"388.648","176.76","117.89","3,296.70",0.035,0.02,0.015
+"CDHP","Professional","Other Services",2014,"166.972","61.718","96.83","1,724.38",0,0,0
+"CDHP","Professional","Other Services",2015,"171.722","63.72","98.236","1,748.06",0.028,0.015,0.014
+"CDHP","Professional","Other Services",2016,"189.217","68.021","103.108","1,835.12",0.102,0.05,0.05
+"CDHP","Professional","Other Services",2017,"196.179","69.467","104.562","1,876.20",0.037,0.014,0.022
+"CDHP","Professional","Physical Medicine",2014,"67.004","32.922","39.82","1,682.69",0,0,0
+"CDHP","Professional","Physical Medicine",2015,"68.464","33.753","39.899","1,715.93",0.022,0.002,0.02
+"CDHP","Professional","Physical Medicine",2016,"72.602","35.553","42.363","1,713.81",0.06,0.062,-0.001
+"CDHP","Professional","Physical Medicine",2017,"73.424","35.627","43.375","1,692.77",0.011,0.024,-0.012
+"CDHP","Professional","Psychiatry",2014,"36.946","19.02","93.202","396.404",0,0,0
+"CDHP","Professional","Psychiatry",2015,"37.673","19.168","94.309","399.465",0.02,0.012,0.008
+"CDHP","Professional","Psychiatry",2016,"41.375","20.946","96.258","429.836",0.098,0.021,0.076
+"CDHP","Professional","Psychiatry",2017,"45.141","22.52","96.613","467.233",0.091,0.004,0.087
+"CDHP","Professional","Radiology",2014,"132.326","48.813","117.708","1,124.19",0,0,0
+"CDHP","Professional","Radiology",2015,"132.408","49.498","118.692","1,115.56",0.001,0.008,-0.008
+"CDHP","Professional","Radiology",2016,"134.315","49.772","120.215","1,117.29",0.014,0.013,0.002
+"CDHP","Professional","Radiology",2017,"138.135","50.413","134.905","1,023.94",0.028,0.122,-0.084
+"CDHP","Professional","Surgical",2014,"258.931","69.052","413.052","626.873",0,0,0
+"CDHP","Professional","Surgical",2015,"260.418","69.714","418.158","622.773",0.006,0.012,-0.007
+"CDHP","Professional","Surgical",2016,"269.426","69.801","426.403","631.859",0.035,0.02,0.015
+"CDHP","Professional","Surgical",2017,"269.619","70.522","430.728","625.962",0.001,0.01,-0.009
+"CDHP","Prescription Drugs","All Prescription Drugs",2014,"713.34","189.821","85.714","8,322.32",0,0,0
+"CDHP","Prescription Drugs","All Prescription Drugs",2015,"765.865","188.108","92.811","8,251.88",0.074,0.083,-0.008
+"CDHP","Prescription Drugs","All Prescription Drugs",2016,"805.986","186.448","98.372","8,193.22",0.052,0.06,-0.007
+"CDHP","Prescription Drugs","All Prescription Drugs",2017,"858.779","182.796","102.679","8,363.76",0.066,0.044,0.021
+"CDHP","Prescription Drugs","All Prescription Drugs",2014,"506.018","98.537","380.269","1,330.68",0,0,0
+"CDHP","Prescription Drugs","All Prescription Drugs",2015,"558.341","97.474","467.255","1,194.94",0.103,0.229,-0.102
+"CDHP","Prescription Drugs","All Prescription Drugs",2016,"597.502","95.301","541.399","1,103.63",0.07,0.159,-0.076
+"CDHP","Prescription Drugs","All Prescription Drugs",2017,"649.15","91.334","671.129","967.25",0.086,0.24,-0.124
+"CDHP","Prescription Drugs","All Prescription Drugs",2014,"188.593","87.694","27.542","6,847.49",0,0,0
+"CDHP","Prescription Drugs","All Prescription Drugs",2015,"191.974","87.739","27.761","6,915.27",0.018,0.008,0.01
+"CDHP","Prescription Drugs","All Prescription Drugs",2016,"198.453","89.05","28.489","6,966.04",0.034,0.026,0.007
+"CDHP","Prescription Drugs","All Prescription Drugs",2017,"199.219","89.477","27.397","7,271.48",0.004,-0.038,0.044
+"CDHP","Prescription Drugs","All Prescription Drugs",2014,"18.729","3.59","129.936","144.143",0,0,0
+"CDHP","Prescription Drugs","All Prescription Drugs",2015,"15.55","2.896","109.761","141.671",-0.17,-0.155,-0.017
+"CDHP","Prescription Drugs","All Prescription Drugs",2016,"10.031","2.097","81.188","123.555",-0.355,-0.26,-0.128
+"CDHP","Prescription Drugs","All Prescription Drugs",2017,"10.411","1.986","83.267","125.028",0.038,0.026,0.012
+"CDHP","Prescription Drugs","Anti-Infectives",2014,"83.243","18.916","224.273","371.168",0,0,0
+"CDHP","Prescription Drugs","Anti-Infectives",2015,"99.541","20.253","272.838","364.837",0.196,0.217,-0.017
+"CDHP","Prescription Drugs","Anti-Infectives",2016,"91.166","19.924","256.963","354.782",-0.084,-0.058,-0.028
+"CDHP","Prescription Drugs","Anti-Infectives",2017,"89.514","19.733","254.829","351.271",-0.018,-0.008,-0.01
+"CDHP","Prescription Drugs","Anti-Infectives",2014,"63.768","7.941","1,705.72","37.384",0,0,0
+"CDHP","Prescription Drugs","Anti-Infectives",2015,"79.175","8.889","2,287.14","34.617",0.242,0.341,-0.074
+"CDHP","Prescription Drugs","Anti-Infectives",2016,"70.481","8.426","2,215.13","31.818",-0.11,-0.031,-0.081
+"CDHP","Prescription Drugs","Anti-Infectives",2017,"67.511","7.258","2,294.99","29.417",-0.042,0.036,-0.075
+"CDHP","Prescription Drugs","Anti-Infectives",2014,"19.208","10.934","57.612","333.398",0,0,0
+"CDHP","Prescription Drugs","Anti-Infectives",2015,"20.25","11.344","61.361","330.018",0.054,0.065,-0.01
+"CDHP","Prescription Drugs","Anti-Infectives",2016,"20.671","11.495","64.016","322.902",0.021,0.043,-0.022
+"CDHP","Prescription Drugs","Anti-Infectives",2017,"22","12.473","68.36","321.824",0.064,0.068,-0.003
+"CDHP","Prescription Drugs","Anti-Infectives",2014,"0.268","0.042","694.103","0.386",0,0,0
+"CDHP","Prescription Drugs","Anti-Infectives",2015,"0.116","0.02","577.441","0.202",-0.565,-0.168,-0.477
+"CDHP","Prescription Drugs","Anti-Infectives",2016,"0.014","0.003","227.844","0.062",-0.879,-0.605,-0.694
+"CDHP","Prescription Drugs","Anti-Infectives",2017,"0.003","0.001","102.915","0.03",-0.783,-0.548,-0.52
+"CDHP","Prescription Drugs","Antihistamines",2014,"0.908","0.417","33.197","27.34",0,0,0
+"CDHP","Prescription Drugs","Antihistamines",2015,"0.746","0.382","28.361","26.312",-0.178,-0.146,-0.038
+"CDHP","Prescription Drugs","Antihistamines",2016,"0.656","0.38","22.59","29.031",-0.121,-0.203,0.103
+"CDHP","Prescription Drugs","Antihistamines",2017,"0.608","0.343","22.099","27.511",-0.073,-0.022,-0.052
+"CDHP","Prescription Drugs","Antihistamines",2014,"0.089","0.036","93.642","0.951",0,0,0
+"CDHP","Prescription Drugs","Antihistamines",2015,"0.071","0.027","119.227","0.594",-0.205,0.273,-0.375
+"CDHP","Prescription Drugs","Antihistamines",2016,"0.063","0.025","107.636","0.582",-0.115,-0.097,-0.02
+"CDHP","Prescription Drugs","Antihistamines",2017,"0.055","0.023","94.878","0.582",-0.118,-0.119,0.001
+"CDHP","Prescription Drugs","Antihistamines",2014,"0.662","0.372","25.171","26.295",0,0,0
+"CDHP","Prescription Drugs","Antihistamines",2015,"0.605","0.35","23.579","25.664",-0.086,-0.063,-0.024
+"CDHP","Prescription Drugs","Antihistamines",2016,"0.592","0.355","20.829","28.433",-0.021,-0.117,0.108
+"CDHP","Prescription Drugs","Antihistamines",2017,"0.552","0.32","20.517","26.921",-0.067,-0.015,-0.053
+"CDHP","Prescription Drugs","Antihistamines",2014,"0.157","0.009","1,677.29","0.093",0,0,0
+"CDHP","Prescription Drugs","Antihistamines",2015,"0.07","0.005","1,285.63","0.055",-0.551,-0.234,-0.415
+"CDHP","Prescription Drugs","Antihistamines",2016,"0.001","0.001","59.423","0.015",-0.987,-0.954,-0.717
+"CDHP","Prescription Drugs","Antihistamines",2017,"0","0","53.312","0.007",-0.614,-0.103,-0.57
+"CDHP","Prescription Drugs","Autonomic",2014,"19.129","7.346","77.276","247.54",0,0,0
+"CDHP","Prescription Drugs","Autonomic",2015,"21.55","7.59","85.811","251.134",0.127,0.11,0.015
+"CDHP","Prescription Drugs","Autonomic",2016,"23.273","7.963","94.011","247.56",0.08,0.096,-0.014
+"CDHP","Prescription Drugs","Autonomic",2017,"22.542","7.492","89.97","250.55",-0.031,-0.043,0.012
+"CDHP","Prescription Drugs","Autonomic",2014,"10.519","3.895","104.594","100.569",0,0,0
+"CDHP","Prescription Drugs","Autonomic",2015,"11.605","3.813","113.698","102.068",0.103,0.087,0.015
+"CDHP","Prescription Drugs","Autonomic",2016,"11.754","3.831","119.308","98.522",0.013,0.049,-0.035
+"CDHP","Prescription Drugs","Autonomic",2017,"14.751","4.375","148.647","99.232",0.255,0.246,0.007
+"CDHP","Prescription Drugs","Autonomic",2014,"8.224","3.393","56.138","146.501",0,0,0
+"CDHP","Prescription Drugs","Autonomic",2015,"9.822","3.757","65.954","148.921",0.194,0.175,0.017
+"CDHP","Prescription Drugs","Autonomic",2016,"11.51","4.129","77.248","149.004",0.172,0.171,0.001
+"CDHP","Prescription Drugs","Autonomic",2017,"7.791","3.117","51.488","151.311",-0.323,-0.333,0.015
+"CDHP","Prescription Drugs","Autonomic",2014,"0.386","0.059","820.608","0.47",0,0,0
+"CDHP","Prescription Drugs","Autonomic",2015,"0.123","0.02","848.202","0.145",-0.68,0.034,-0.691
+"CDHP","Prescription Drugs","Autonomic",2016,"0.009","0.003","252.973","0.035",-0.928,-0.702,-0.76
+"CDHP","Prescription Drugs","Autonomic",2017,"0.001","0","107.725","0.006",-0.925,-0.574,-0.825
+"CDHP","Prescription Drugs","Bio Response Modifiers",2014,"43.748","2.764","5,226.98","8.37",0,0,0
+"CDHP","Prescription Drugs","Bio Response Modifiers",2015,"47.904","2.967","5,765.99","8.308",0.095,0.103,-0.007
+"CDHP","Prescription Drugs","Bio Response Modifiers",2016,"51.675","2.896","6,412.78","8.058",0.079,0.112,-0.03
+"CDHP","Prescription Drugs","Bio Response Modifiers",2017,"57.701","2.941","6,953.77","8.298",0.117,0.084,0.03
+"CDHP","Prescription Drugs","Bio Response Modifiers",2014,"43.748","2.764","5,226.98","8.37",0,0,0
+"CDHP","Prescription Drugs","Bio Response Modifiers",2015,"47.795","2.964","5,766.60","8.288",0.092,0.103,-0.01
+"CDHP","Prescription Drugs","Bio Response Modifiers",2016,"51.537","2.886","6,415.68","8.033",0.078,0.113,-0.031
+"CDHP","Prescription Drugs","Bio Response Modifiers",2017,"57.349","2.929","6,966.35","8.232",0.113,0.086,0.025
+"CDHP","Prescription Drugs","Bio Response Modifiers",2015,"0.109","0.003","5,511.84","0.02",0,0,0
+"CDHP","Prescription Drugs","Bio Response Modifiers",2016,"0.138","0.01","5,482.45","0.025",0.264,-0.005,0.27
+"CDHP","Prescription Drugs","Bio Response Modifiers",2017,"0.352","0.012","5,373.89","0.066",1.562,-0.02,1.614
+"CDHP","Prescription Drugs","Blood",2014,"17.521","2.053","210.101","83.395",0,0,0
+"CDHP","Prescription Drugs","Blood",2015,"19.087","2.309","226.757","84.173",0.089,0.079,0.009
+"CDHP","Prescription Drugs","Blood",2016,"22.204","2.716","268.127","82.813",0.163,0.182,-0.016
+"CDHP","Prescription Drugs","Blood",2017,"27.052","3.212","318.382","84.966",0.218,0.187,0.026
+"CDHP","Prescription Drugs","Blood",2014,"14.038","1.251","739.556","18.982",0,0,0
+"CDHP","Prescription Drugs","Blood",2015,"16.338","1.64","715.464","22.836",0.164,-0.033,0.203
+"CDHP","Prescription Drugs","Blood",2016,"19.684","2.113","744.181","26.451",0.205,0.04,0.158
+"CDHP","Prescription Drugs","Blood",2017,"24.511","2.657","795.004","30.832",0.245,0.068,0.166
+"CDHP","Prescription Drugs","Blood",2014,"3.448","0.8","53.552","64.395",0,0,0
+"CDHP","Prescription Drugs","Blood",2015,"2.743","0.669","44.733","61.33",-0.204,-0.165,-0.048
+"CDHP","Prescription Drugs","Blood",2016,"2.52","0.602","44.711","56.36",-0.082,-0.001,-0.081
+"CDHP","Prescription Drugs","Blood",2017,"2.54","0.555","46.928","54.135",0.008,0.05,-0.039
+"CDHP","Prescription Drugs","Blood",2014,"0.035","0.002","1,876.40","0.019",0,0,0
+"CDHP","Prescription Drugs","Blood",2015,"0.005","0.001","710.135","0.007",-0.861,-0.622,-0.633
+"CDHP","Prescription Drugs","Blood",2016,"0","0","58.405","0.002",-0.976,-0.918,-0.71
+"CDHP","Prescription Drugs","Blood",2017,"0","0","2,357.95","0",-0.311,39.373,-0.983
+"CDHP","Prescription Drugs","Cardiovascular",2014,"69.166","26.565","32.426","2,133.02",0,0,0
+"CDHP","Prescription Drugs","Cardiovascular",2015,"63.639","23.829","29.934","2,126.01",-0.08,-0.077,-0.003
+"CDHP","Prescription Drugs","Cardiovascular",2016,"59.258","22.472","28.188","2,102.27",-0.069,-0.058,-0.011
+"CDHP","Prescription Drugs","Cardiovascular",2017,"49.543","19.697","23.063","2,148.20",-0.164,-0.182,0.022
+"CDHP","Prescription Drugs","Cardiovascular",2014,"39.896","12.476","174.584","228.521",0,0,0
+"CDHP","Prescription Drugs","Cardiovascular",2015,"36.787","10.556","201.469","182.593",-0.078,0.154,-0.201
+"CDHP","Prescription Drugs","Cardiovascular",2016,"31.185","8.972","234.096","133.215",-0.152,0.162,-0.27
+"CDHP","Prescription Drugs","Cardiovascular",2017,"18.396","5.268","273.356","67.297",-0.41,0.168,-0.495
+"CDHP","Prescription Drugs","Cardiovascular",2014,"29.127","14.053","15.297","1,904.05",0,0,0
+"CDHP","Prescription Drugs","Cardiovascular",2015,"26.747","13.251","13.765","1,943.17",-0.082,-0.1,0.021
+"CDHP","Prescription Drugs","Cardiovascular",2016,"28.057","13.496","14.25","1,968.98",0.049,0.035,0.013
+"CDHP","Prescription Drugs","Cardiovascular",2017,"31.144","14.427","14.967","2,080.86",0.11,0.05,0.057
+"CDHP","Prescription Drugs","Cardiovascular",2014,"0.144","0.036","322.053","0.446",0,0,0
+"CDHP","Prescription Drugs","Cardiovascular",2015,"0.105","0.022","432.808","0.242",-0.269,0.344,-0.456
+"CDHP","Prescription Drugs","Cardiovascular",2016,"0.016","0.004","204.71","0.078",-0.848,-0.527,-0.678
+"CDHP","Prescription Drugs","Cardiovascular",2017,"0.003","0.001","81.844","0.038",-0.807,-0.6,-0.517
+"CDHP","Prescription Drugs","Central Nervous System",2014,"130.789","47.689","62.19","2,103.05",0,0,0
+"CDHP","Prescription Drugs","Central Nervous System",2015,"122.284","45.968","58.514","2,089.82",-0.065,-0.059,-0.006
+"CDHP","Prescription Drugs","Central Nervous System",2016,"121.411","45.853","58.025","2,092.41",-0.007,-0.008,0.001
+"CDHP","Prescription Drugs","Central Nervous System",2017,"115.559","44.171","53.928","2,142.86",-0.048,-0.071,0.024
+"CDHP","Prescription Drugs","Central Nervous System",2014,"69.495","18.311","362.9","191.5",0,0,0
+"CDHP","Prescription Drugs","Central Nervous System",2015,"63.018","17.207","399.551","157.721",-0.093,0.101,-0.176
+"CDHP","Prescription Drugs","Central Nervous System",2016,"62.892","16.851","431.835","145.639",-0.002,0.081,-0.077
+"CDHP","Prescription Drugs","Central Nervous System",2017,"60.046","15.651","477.083","125.861",-0.045,0.105,-0.136
+"CDHP","Prescription Drugs","Central Nervous System",2014,"57.376","28.885","30.059","1,908.80",0,0,0
+"CDHP","Prescription Drugs","Central Nervous System",2015,"58.003","28.611","30.035","1,931.14",0.011,-0.001,0.012
+"CDHP","Prescription Drugs","Central Nervous System",2016,"58.473","28.992","30.039","1,946.59",0.008,0,0.008
+"CDHP","Prescription Drugs","Central Nervous System",2017,"55.502","28.516","27.518","2,016.92",-0.051,-0.084,0.036
+"CDHP","Prescription Drugs","Central Nervous System",2014,"3.917","0.492","1,421.40","2.756",0,0,0
+"CDHP","Prescription Drugs","Central Nervous System",2015,"1.264","0.149","1,314.95","0.961",-0.677,-0.075,-0.651
+"CDHP","Prescription Drugs","Central Nervous System",2016,"0.046","0.01","250.442","0.183",-0.964,-0.81,-0.81
+"CDHP","Prescription Drugs","Central Nervous System",2017,"0.012","0.003","146.629","0.079",-0.748,-0.415,-0.57
+"CDHP","Prescription Drugs","Chemotherapy",2014,"27.634","1.681","595.311","46.42",0,0,0
+"CDHP","Prescription Drugs","Chemotherapy",2015,"33.465","1.682","709.527","47.166",0.211,0.192,0.016
+"CDHP","Prescription Drugs","Chemotherapy",2016,"40.084","1.713","832.187","48.167",0.198,0.173,0.021
+"CDHP","Prescription Drugs","Chemotherapy",2017,"49.075","1.566","1,121.86","43.744",0.224,0.348,-0.092
+"CDHP","Prescription Drugs","Chemotherapy",2014,"23.389","0.875","7,228.00","3.236",0,0,0
+"CDHP","Prescription Drugs","Chemotherapy",2015,"28.977","0.9","8,305.72","3.489",0.239,0.149,0.078
+"CDHP","Prescription Drugs","Chemotherapy",2016,"36.124","0.958","8,860.58","4.077",0.247,0.067,0.169
+"CDHP","Prescription Drugs","Chemotherapy",2017,"43.182","0.867","9,767.47","4.421",0.195,0.102,0.084
+"CDHP","Prescription Drugs","Chemotherapy",2014,"4.134","0.8","95.917","43.1",0,0,0
+"CDHP","Prescription Drugs","Chemotherapy",2015,"4.378","0.778","100.403","43.608",0.059,0.047,0.012
+"CDHP","Prescription Drugs","Chemotherapy",2016,"3.96","0.755","89.844","44.073",-0.096,-0.105,0.011
+"CDHP","Prescription Drugs","Chemotherapy",2017,"5.893","0.699","149.908","39.311",0.488,0.669,-0.108
+"CDHP","Prescription Drugs","Chemotherapy",2014,"0.111","0.006","1,321.41","0.084",0,0,0
+"CDHP","Prescription Drugs","Chemotherapy",2015,"0.11","0.004","1,595.05","0.069",-0.008,0.207,-0.178
+"CDHP","Prescription Drugs","Chemotherapy",2016,"0.001","0","55.213","0.018",-0.991,-0.965,-0.74
+"CDHP","Prescription Drugs","Chemotherapy",2017,"0.001","0","40.518","0.013",-0.488,-0.266,-0.303
+"CDHP","Prescription Drugs","Devices",2014,"2.477","0.811","39.312","63.019",0,0,0
+"CDHP","Prescription Drugs","Devices",2015,"2.912","0.819","45.525","63.963",0.175,0.158,0.015
+"CDHP","Prescription Drugs","Devices",2016,"2.954","0.861","47.019","62.824",0.014,0.033,-0.018
+"CDHP","Prescription Drugs","Devices",2017,"3.378","0.854","52.313","64.566",0.143,0.113,0.028
+"CDHP","Prescription Drugs","Devices",2014,"0.379","0.102","552.243","0.686",0,0,0
+"CDHP","Prescription Drugs","Devices",2015,"0.535","0.13","730.208","0.733",0.414,0.322,0.069
+"CDHP","Prescription Drugs","Devices",2016,"0.422","0.114","682.159","0.619",-0.211,-0.066,-0.156
+"CDHP","Prescription Drugs","Devices",2017,"0.561","0.133","1,134.28","0.495",0.33,0.663,-0.2
+"CDHP","Prescription Drugs","Devices",2014,"0.259","0.075","591.362","0.437",0,0,0
+"CDHP","Prescription Drugs","Devices",2015,"0.247","0.071","559.019","0.441",-0.046,-0.055,0.009
+"CDHP","Prescription Drugs","Devices",2016,"0.275","0.106","441.445","0.622",0.114,-0.21,0.41
+"CDHP","Prescription Drugs","Devices",2017,"0.087","0.039","344.305","0.252",-0.684,-0.22,-0.594
+"CDHP","Prescription Drugs","Devices",2014,"1.84","0.634","29.728","61.896",0,0,0
+"CDHP","Prescription Drugs","Devices",2015,"2.13","0.619","33.922","62.788",0.158,0.141,0.014
+"CDHP","Prescription Drugs","Devices",2016,"2.257","0.641","36.651","61.583",0.06,0.08,-0.019
+"CDHP","Prescription Drugs","Devices",2017,"2.729","0.681","42.769","63.819",0.209,0.167,0.036
+"CDHP","Prescription Drugs","Diagnostic",2014,"9.606","1.678","150.5","63.829",0,0,0
+"CDHP","Prescription Drugs","Diagnostic",2015,"9.151","1.54","143.472","63.779",-0.047,-0.047,-0.001
+"CDHP","Prescription Drugs","Diagnostic",2016,"8.855","1.325","157.811","56.109",-0.032,0.1,-0.12
+"CDHP","Prescription Drugs","Diagnostic",2017,"8.474","1.24","151.58","55.907",-0.043,-0.039,-0.004
+"CDHP","Prescription Drugs","Diagnostic",2014,"1.556","0.041","31,205.64","0.05",0,0,0
+"CDHP","Prescription Drugs","Diagnostic",2015,"1.007","0.029","28,891.05","0.035",-0.353,-0.074,-0.301
+"CDHP","Prescription Drugs","Diagnostic",2016,"1.556","0.017","43,222.28","0.036",0.544,0.496,0.032
+"CDHP","Prescription Drugs","Diagnostic",2017,"1.025","0.023","43,867.18","0.023",-0.341,0.015,-0.351
+"CDHP","Prescription Drugs","Diagnostic",2014,"0.001","0","614.655","0.001",0,0,0
+"CDHP","Prescription Drugs","Diagnostic",2015,"0.001","0","332.909","0.002",-0.034,-0.458,0.784
+"CDHP","Prescription Drugs","Diagnostic",2016,"0","0","569.115","0.001",-0.397,0.71,-0.648
+"CDHP","Prescription Drugs","Diagnostic",2017,"0","0","538.392","0.001",0.318,-0.054,0.394
+"CDHP","Prescription Drugs","Diagnostic",2014,"8.049","1.637","126.206","63.778",0,0,0
+"CDHP","Prescription Drugs","Diagnostic",2015,"8.142","1.51","127.74","63.742",0.012,0.012,-0.001
+"CDHP","Prescription Drugs","Diagnostic",2016,"7.299","1.308","130.166","56.072",-0.104,0.019,-0.12
+"CDHP","Prescription Drugs","Diagnostic",2017,"7.449","1.217","133.301","55.883",0.021,0.024,-0.003
+"CDHP","Prescription Drugs","EENT",2014,"16.921","8.512","63.958","264.565",0,0,0
+"CDHP","Prescription Drugs","EENT",2015,"15.083","7.203","73.3","205.772",-0.109,0.146,-0.222
+"CDHP","Prescription Drugs","EENT",2016,"14.182","6.705","77.493","183.016",-0.06,0.057,-0.111
+"CDHP","Prescription Drugs","EENT",2017,"14.493","6.811","80.745","179.491",0.022,0.042,-0.019
+"CDHP","Prescription Drugs","EENT",2014,"10.929","4.703","202.28","54.029",0,0,0
+"CDHP","Prescription Drugs","EENT",2015,"9.832","3.979","247.741","39.686",-0.1,0.225,-0.265
+"CDHP","Prescription Drugs","EENT",2016,"8.619","3.539","283.196","30.435",-0.123,0.143,-0.233
+"CDHP","Prescription Drugs","EENT",2017,"8.601","3.468","322.558","26.666",-0.002,0.139,-0.124
+"CDHP","Prescription Drugs","EENT",2014,"5.991","3.808","28.459","210.52",0,0,0
+"CDHP","Prescription Drugs","EENT",2015,"5.25","3.224","31.615","166.073",-0.124,0.111,-0.211
+"CDHP","Prescription Drugs","EENT",2016,"5.563","3.166","36.462","152.575",0.06,0.153,-0.081
+"CDHP","Prescription Drugs","EENT",2017,"5.891","3.343","38.552","152.813",0.059,0.057,0.002
+"CDHP","Prescription Drugs","EENT",2014,"0.001","0","58.909","0.017",0,0,0
+"CDHP","Prescription Drugs","EENT",2015,"0.001","0","52.994","0.013",-0.3,-0.1,-0.222
+"CDHP","Prescription Drugs","EENT",2016,"0","0","38.355","0.007",-0.625,-0.276,-0.482
+"CDHP","Prescription Drugs","EENT",2017,"0","0","33.044","0.012",0.458,-0.138,0.692
+"CDHP","Prescription Drugs","Enzymes",2014,"1.303","0.048","19,631.59","0.066",0,0,0
+"CDHP","Prescription Drugs","Enzymes",2015,"1.122","0.043","17,647.61","0.064",-0.139,-0.101,-0.042
+"CDHP","Prescription Drugs","Enzymes",2016,"1.281","0.035","18,525.30","0.069",0.142,0.05,0.088
+"CDHP","Prescription Drugs","Enzymes",2017,"1.64","0.051","18,262.64","0.09",0.28,-0.014,0.298
+"CDHP","Prescription Drugs","Enzymes",2014,"1.271","0.047","20,598.28","0.062",0,0,0
+"CDHP","Prescription Drugs","Enzymes",2015,"0.998","0.035","19,298.90","0.052",-0.215,-0.063,-0.162
+"CDHP","Prescription Drugs","Enzymes",2016,"1.202","0.031","19,871.59","0.061",0.205,0.03,0.17
+"CDHP","Prescription Drugs","Enzymes",2017,"1.474","0.042","20,230.28","0.073",0.226,0.018,0.204
+"CDHP","Prescription Drugs","Enzymes",2014,"0.028","0.001","9,502.50","0.003",0,0,0
+"CDHP","Prescription Drugs","Enzymes",2015,"0.123","0.008","10,701.06","0.012",3.337,0.126,2.851
+"CDHP","Prescription Drugs","Enzymes",2016,"0.079","0.004","9,096.84","0.009",-0.363,-0.15,-0.251
+"CDHP","Prescription Drugs","Enzymes",2017,"0.165","0.009","9,782.32","0.017",1.104,0.075,0.957
+"CDHP","Prescription Drugs","Enzymes",2014,"0.003","0","1,907.77","0.002",0,0,0
+"CDHP","Prescription Drugs","Enzymes",2015,"0","0","937.5","0",-0.907,-0.509,-0.81
+"CDHP","Prescription Drugs","Gastrointestinal",2014,"26.39","8.543","78.553","335.949",0,0,0
+"CDHP","Prescription Drugs","Gastrointestinal",2015,"25.193","7.85","74.556","337.908",-0.045,-0.051,0.006
+"CDHP","Prescription Drugs","Gastrointestinal",2016,"25.847","7.723","78.536","329.112",0.026,0.053,-0.026
+"CDHP","Prescription Drugs","Gastrointestinal",2017,"26.606","7.454","80.649","329.901",0.029,0.027,0.002
+"CDHP","Prescription Drugs","Gastrointestinal",2014,"19.696","5.09","354.775","55.517",0,0,0
+"CDHP","Prescription Drugs","Gastrointestinal",2015,"17.325","4.32","425.88","40.682",-0.12,0.2,-0.267
+"CDHP","Prescription Drugs","Gastrointestinal",2016,"18.05","4.214","497.179","36.305",0.042,0.167,-0.108
+"CDHP","Prescription Drugs","Gastrointestinal",2017,"18.346","3.985","568.786","32.255",0.016,0.144,-0.112
+"CDHP","Prescription Drugs","Gastrointestinal",2014,"6.645","3.445","23.714","280.214",0,0,0
+"CDHP","Prescription Drugs","Gastrointestinal",2015,"7.845","3.524","26.407","297.071",0.181,0.114,0.06
+"CDHP","Prescription Drugs","Gastrointestinal",2016,"7.791","3.507","26.614","292.75",-0.007,0.008,-0.015
+"CDHP","Prescription Drugs","Gastrointestinal",2017,"8.248","3.468","27.716","297.583",0.059,0.041,0.017
+"CDHP","Prescription Drugs","Gastrointestinal",2014,"0.049","0.009","223.488","0.217",0,0,0
+"CDHP","Prescription Drugs","Gastrointestinal",2015,"0.023","0.006","146.752","0.156",-0.529,-0.343,-0.282
+"CDHP","Prescription Drugs","Gastrointestinal",2016,"0.006","0.002","97.124","0.057",-0.757,-0.338,-0.633
+"CDHP","Prescription Drugs","Gastrointestinal",2017,"0.013","0.001","197.9","0.063",1.257,1.038,0.108
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"0.707","0.024","5,824.40","0.121",0,0,0
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"0.687","0.021","6,539.72","0.105",-0.029,0.123,-0.135
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"1.041","0.025","7,625.71","0.136",0.516,0.166,0.3
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"0.956","0.029","7,540.63","0.127",-0.081,-0.011,-0.071
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"0.689","0.022","7,100.92","0.097",0,0,0
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"0.63","0.02","6,928.96","0.091",-0.086,-0.024,-0.064
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"0.965","0.023","7,726.04","0.125",0.532,0.115,0.374
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"0.914","0.028","7,779.48","0.118",-0.052,0.007,-0.059
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"0.012","0","2,021.95","0.006",0,0,0
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"0.057","0.001","5,309.81","0.011",3.728,1.626,0.8
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"0.076","0.002","6,720.53","0.011",0.342,0.266,0.06
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"0.042","0.001","5,103.34","0.008",-0.45,-0.241,-0.276
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"0.006","0.002","307.526","0.018",0,0,0
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"0","0","93.068","0.003",-0.943,-0.697,-0.812
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"0","0","107.855","0",-0.898,0.159,-0.912
+"CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"0","0","71.225","0.001",1.351,-0.34,2.559
+"CDHP","Prescription Drugs","Hormones",2014,"120.06","32.032","72.956","1,645.65",0,0,0
+"CDHP","Prescription Drugs","Hormones",2015,"133.005","31.986","80.373","1,654.86",0.108,0.102,0.006
+"CDHP","Prescription Drugs","Hormones",2016,"144.423","31.627","86.185","1,675.72",0.086,0.072,0.013
+"CDHP","Prescription Drugs","Hormones",2017,"157.396","31.677","90.593","1,737.40",0.09,0.051,0.037
+"CDHP","Prescription Drugs","Hormones",2014,"94.606","22.9","203.699","464.439",0,0,0
+"CDHP","Prescription Drugs","Hormones",2015,"108.952","22.819","246.319","442.322",0.152,0.209,-0.048
+"CDHP","Prescription Drugs","Hormones",2016,"119.242","22.5","274.051","435.109",0.094,0.113,-0.016
+"CDHP","Prescription Drugs","Hormones",2017,"130","22.271","334.519","388.619",0.09,0.221,-0.107
+"CDHP","Prescription Drugs","Hormones",2014,"23.599","8.735","20.124","1,172.67",0,0,0
+"CDHP","Prescription Drugs","Hormones",2015,"23.392","8.926","19.394","1,206.13",-0.009,-0.036,0.029
+"CDHP","Prescription Drugs","Hormones",2016,"25.078","9.062","20.25","1,238.42",0.072,0.044,0.027
+"CDHP","Prescription Drugs","Hormones",2017,"27.338","9.369","20.288","1,347.46",0.09,0.002,0.088
+"CDHP","Prescription Drugs","Hormones",2014,"1.855","0.396","217.087","8.547",0,0,0
+"CDHP","Prescription Drugs","Hormones",2015,"0.661","0.242","103.266","6.406",-0.643,-0.524,-0.251
+"CDHP","Prescription Drugs","Hormones",2016,"0.102","0.064","46.731","2.19",-0.845,-0.547,-0.658
+"CDHP","Prescription Drugs","Hormones",2017,"0.058","0.036","44.294","1.314",-0.431,-0.052,-0.4
+"CDHP","Prescription Drugs","Metabolic",2014,"4.102","1.375","15.666","261.827",0,0,0
+"CDHP","Prescription Drugs","Metabolic",2015,"4.495","1.388","17.497","256.907",0.096,0.117,-0.019
+"CDHP","Prescription Drugs","Metabolic",2016,"4.399","1.347","17.321","253.995",-0.021,-0.01,-0.011
+"CDHP","Prescription Drugs","Metabolic",2017,"4.415","1.28","17.111","258.013",0.003,-0.012,0.016
+"CDHP","Prescription Drugs","Metabolic",2014,"1.672","0.084","857.287","1.95",0,0,0
+"CDHP","Prescription Drugs","Metabolic",2015,"2.097","0.099","1,229.92","1.705",0.254,0.435,-0.126
+"CDHP","Prescription Drugs","Metabolic",2016,"2.026","0.086","1,156.64","1.752",-0.034,-0.06,0.027
+"CDHP","Prescription Drugs","Metabolic",2017,"1.767","0.082","1,241.99","1.423",-0.128,0.074,-0.188
+"CDHP","Prescription Drugs","Metabolic",2014,"2.425","1.289","9.333","259.799",0,0,0
+"CDHP","Prescription Drugs","Metabolic",2015,"2.394","1.287","9.384","255.147",-0.013,0.005,-0.018
+"CDHP","Prescription Drugs","Metabolic",2016,"2.372","1.261","9.405","252.238",-0.009,0.002,-0.011
+"CDHP","Prescription Drugs","Metabolic",2017,"2.645","1.197","10.307","256.573",0.115,0.096,0.017
+"CDHP","Prescription Drugs","Metabolic",2014,"0.005","0.002","64.816","0.077",0,0,0
+"CDHP","Prescription Drugs","Metabolic",2015,"0.003","0.002","60.536","0.055",-0.342,-0.066,-0.295
+"CDHP","Prescription Drugs","Metabolic",2016,"0.001","0","95.832","0.006",-0.835,0.583,-0.896
+"CDHP","Prescription Drugs","Metabolic",2017,"0.003","0","165.356","0.017",4.222,0.725,2.027
+"CDHP","Prescription Drugs","Miscellaneous",2014,"15.379","3.016","123.997","124.03",0,0,0
+"CDHP","Prescription Drugs","Miscellaneous",2015,"16.147","2.999","128.097","126.055",0.05,0.033,0.016
+"CDHP","Prescription Drugs","Miscellaneous",2016,"14.525","2.468","121.937","119.116",-0.1,-0.048,-0.055
+"CDHP","Prescription Drugs","Miscellaneous",2017,"16.685","2.445","136.609","122.14",0.149,0.12,0.025
+"CDHP","Prescription Drugs","Miscellaneous",2014,"11.458","1.888","452.846","25.303",0,0,0
+"CDHP","Prescription Drugs","Miscellaneous",2015,"10.485","1.583","542.085","19.343",-0.085,0.197,-0.236
+"CDHP","Prescription Drugs","Miscellaneous",2016,"10.791","1.165","755.97","14.274",0.029,0.395,-0.262
+"CDHP","Prescription Drugs","Miscellaneous",2017,"13.044","1.165","1,004.23","12.989",0.209,0.328,-0.09
+"CDHP","Prescription Drugs","Miscellaneous",2014,"2.813","0.951","29.552","95.198",0,0,0
+"CDHP","Prescription Drugs","Miscellaneous",2015,"3.472","1.184","34.233","101.433",0.234,0.158,0.065
+"CDHP","Prescription Drugs","Miscellaneous",2016,"3.494","1.256","33.956","102.904",0.006,-0.008,0.015
+"CDHP","Prescription Drugs","Miscellaneous",2017,"3.548","1.246","33.186","106.902",0.015,-0.023,0.039
+"CDHP","Prescription Drugs","Miscellaneous",2014,"1.108","0.178","313.88","3.529",0,0,0
+"CDHP","Prescription Drugs","Miscellaneous",2015,"2.19","0.232","414.686","5.28",0.977,0.321,0.496
+"CDHP","Prescription Drugs","Miscellaneous",2016,"0.24","0.047","123.694","1.937",-0.891,-0.702,-0.633
+"CDHP","Prescription Drugs","Miscellaneous",2017,"0.094","0.034","41.698","2.249",-0.609,-0.663,0.161
+"CDHP","Prescription Drugs","Respiratory",2014,"29.69","7.488","138.283","214.703",0,0,0
+"CDHP","Prescription Drugs","Respiratory",2015,"33.77","7.129","154.326","218.821",0.137,0.116,0.019
+"CDHP","Prescription Drugs","Respiratory",2016,"39.881","7.991","174.29","228.817",0.181,0.129,0.046
+"CDHP","Prescription Drugs","Respiratory",2017,"45.185","8.746","188.95","239.135",0.133,0.084,0.045
+"CDHP","Prescription Drugs","Respiratory",2014,"24.256","5.158","304.998","79.528",0,0,0
+"CDHP","Prescription Drugs","Respiratory",2015,"28.895","5.048","365.625","79.03",0.191,0.199,-0.006
+"CDHP","Prescription Drugs","Respiratory",2016,"34.81","5.84","420.954","82.694",0.205,0.151,0.046
+"CDHP","Prescription Drugs","Respiratory",2017,"40.392","6.671","465.798","86.716",0.16,0.107,0.049
+"CDHP","Prescription Drugs","Respiratory",2014,"5.392","2.325","39.904","135.129",0,0,0
+"CDHP","Prescription Drugs","Respiratory",2015,"4.865","2.079","34.805","139.771",-0.098,-0.128,0.034
+"CDHP","Prescription Drugs","Respiratory",2016,"5.069","2.151","34.689","146.115",0.042,-0.003,0.045
+"CDHP","Prescription Drugs","Respiratory",2017,"4.791","2.075","31.434","152.407",-0.055,-0.094,0.043
+"CDHP","Prescription Drugs","Respiratory",2014,"0.042","0.005","900.424","0.047",0,0,0
+"CDHP","Prescription Drugs","Respiratory",2015,"0.01","0.001","480.781","0.02",-0.77,-0.466,-0.569
+"CDHP","Prescription Drugs","Respiratory",2016,"0.002","0","204.464","0.009",-0.82,-0.575,-0.576
+"CDHP","Prescription Drugs","Respiratory",2017,"0.002","0","143.885","0.012",-0.031,-0.296,0.376
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2014,"53.112","5.323","2,795.03","19.002",0,0,0
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2015,"67.894","6.58","3,370.12","20.146",0.278,0.206,0.06
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2016,"87.212","7.22","4,067.59","21.441",0.285,0.207,0.064
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2017,"109.574","8.377","4,620.22","23.716",0.256,0.136,0.106
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2014,"53.012","5.284","3,159.48","16.779",0,0,0
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2015,"67.73","6.543","3,749.15","18.066",0.278,0.187,0.077
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2016,"86.945","7.159","4,497.46","19.332",0.284,0.2,0.07
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2017,"109.3","8.311","5,061.63","21.594",0.257,0.125,0.117
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2014,"0.1","0.039","44.927","2.224",0,0,0
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2015,"0.163","0.037","78.512","2.08",0.635,0.748,-0.064
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2016,"0.267","0.061","126.824","2.109",0.637,0.615,0.014
+"CDHP","Prescription Drugs","Rheumatoid Arthritis",2017,"0.275","0.066","129.453","2.122",0.027,0.021,0.007
+"CDHP","Prescription Drugs","Skin",2014,"36.35","11.855","203.487","178.635",0,0,0
+"CDHP","Prescription Drugs","Skin",2015,"43.062","13.949","247.131","174.249",0.185,0.214,-0.025
+"CDHP","Prescription Drugs","Skin",2016,"46.701","13.666","279.693","166.971",0.084,0.132,-0.042
+"CDHP","Prescription Drugs","Skin",2017,"53.623","13.232","327.43","163.769",0.148,0.171,-0.019
+"CDHP","Prescription Drugs","Skin",2014,"18.54","4.999","593.839","31.221",0,0,0
+"CDHP","Prescription Drugs","Skin",2015,"23.09","6.262","754.324","30.61",0.245,0.27,-0.02
+"CDHP","Prescription Drugs","Skin",2016,"25.914","5.955","1,023.80","25.312",0.122,0.357,-0.173
+"CDHP","Prescription Drugs","Skin",2017,"34.87","5.582","1,579.97","22.07",0.346,0.543,-0.128
+"CDHP","Prescription Drugs","Skin",2014,"17.328","6.796","118.705","145.973",0,0,0
+"CDHP","Prescription Drugs","Skin",2015,"19.673","7.649","138.212","142.338",0.135,0.164,-0.025
+"CDHP","Prescription Drugs","Skin",2016,"20.753","7.7","147.779","140.432",0.055,0.069,-0.013
+"CDHP","Prescription Drugs","Skin",2017,"18.711","7.64","133.429","140.234",-0.098,-0.097,-0.001
+"CDHP","Prescription Drugs","Skin",2014,"0.482","0.06","334.428","1.442",0,0,0
+"CDHP","Prescription Drugs","Skin",2015,"0.3","0.039","230.256","1.301",-0.379,-0.311,-0.098
+"CDHP","Prescription Drugs","Skin",2016,"0.033","0.011","27.237","1.227",-0.888,-0.882,-0.057
+"CDHP","Prescription Drugs","Skin",2017,"0.042","0.01","28.684","1.466",0.258,0.053,0.194
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"1.936","0.697","89.278","21.684",0,0,0
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"1.858","0.647","87.095","21.331",-0.04,-0.024,-0.016
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"1.849","0.635","89.893","20.573",-0.005,0.032,-0.036
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"1.848","0.609","89.464","20.661",-0.001,-0.005,0.004
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"1.289","0.391","207.8","6.203",0,0,0
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"1.189","0.331","242.11","4.91",-0.078,0.165,-0.208
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"1.198","0.314","272.029","4.403",0.008,0.124,-0.103
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"1.171","0.266","302.207","3.874",-0.022,0.111,-0.12
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"0.647","0.306","41.775","15.476",0,0,0
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"0.668","0.316","40.72","16.413",0.034,-0.025,0.061
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"0.652","0.321","40.296","16.169",-0.025,-0.01,-0.015
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"0.678","0.343","40.362","16.786",0.04,0.002,0.038
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"0.001","0","95.248","0.005",0,0,0
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"0.001","0","89.866","0.008",0.426,-0.057,0.511
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"0","0","62.302","0.001",-0.919,-0.307,-0.884
+"CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"0","0","27.639","0.001",-0.751,-0.556,-0.439
+"CDHP","Prescription Drugs","Vaccines",2014,"1.133","0.078","1,829.81","0.619",0,0,0
+"CDHP","Prescription Drugs","Vaccines",2015,"1.145","0.078","1,705.93","0.671",0.011,-0.068,0.084
+"CDHP","Prescription Drugs","Vaccines",2016,"1.277","0.083","2,099.70","0.608",0.116,0.231,-0.094
+"CDHP","Prescription Drugs","Vaccines",2017,"1.101","0.091","2,034.89","0.541",-0.138,-0.031,-0.11
+"CDHP","Prescription Drugs","Vaccines",2014,"1.125","0.077","1,824.84","0.616",0,0,0
+"CDHP","Prescription Drugs","Vaccines",2015,"1.094","0.077","1,644.85","0.665",-0.027,-0.099,0.079
+"CDHP","Prescription Drugs","Vaccines",2016,"1.274","0.082","2,127.32","0.599",0.165,0.293,-0.099
+"CDHP","Prescription Drugs","Vaccines",2017,"1.1","0.091","2,052.72","0.536",-0.137,-0.035,-0.106
+"CDHP","Prescription Drugs","Vaccines",2014,"0.008","0.001","2,910.55","0.003",0,0,0
+"CDHP","Prescription Drugs","Vaccines",2015,"0.051","0.001","8,665.24","0.006",5.141,1.977,1.063
+"CDHP","Prescription Drugs","Vaccines",2016,"0.003","0.001","279.76","0.009",-0.95,-0.968,0.557
+"CDHP","Prescription Drugs","Vaccines",2017,"0.002","0.001","286.271","0.005",-0.385,0.023,-0.399
+"CDHP","Prescription Drugs","Vitamins",2014,"2.036","0.909","18.794","108.308",0,0,0
+"CDHP","Prescription Drugs","Vitamins",2015,"2.125","0.896","19.405","109.493",0.044,0.032,0.011
+"CDHP","Prescription Drugs","Vitamins",2016,"1.832","0.818","16.715","109.625",-0.138,-0.139,0.001
+"CDHP","Prescription Drugs","Vitamins",2017,"1.809","0.745","16.309","110.909",-0.013,-0.024,0.012
+"CDHP","Prescription Drugs","Vitamins",2014,"0.596","0.2","127.163","4.69",0,0,0
+"CDHP","Prescription Drugs","Vitamins",2015,"0.715","0.203","148.788","4.803",0.198,0.17,0.024
+"CDHP","Prescription Drugs","Vitamins",2016,"0.766","0.197","181.029","4.233",0.072,0.217,-0.119
+"CDHP","Prescription Drugs","Vitamins",2017,"0.783","0.186","199.572","3.925",0.022,0.102,-0.073
+"CDHP","Prescription Drugs","Vitamins",2014,"1.167","0.688","11.3","103.304",0,0,0
+"CDHP","Prescription Drugs","Vitamins",2015,"1.115","0.67","10.676","104.474",-0.045,-0.055,0.011
+"CDHP","Prescription Drugs","Vitamins",2016,"1.061","0.618","10.074","105.319",-0.049,-0.056,0.008
+"CDHP","Prescription Drugs","Vitamins",2017,"1.024","0.559","9.577","106.963",-0.035,-0.049,0.016
+"CDHP","Prescription Drugs","Vitamins",2014,"0.272","0.021","865.533","0.314",0,0,0
+"CDHP","Prescription Drugs","Vitamins",2015,"0.295","0.023","1,366.95","0.216",0.084,0.579,-0.314
+"CDHP","Prescription Drugs","Vitamins",2016,"0.005","0.003","70.199","0.073",-0.983,-0.949,-0.661
+"CDHP","Prescription Drugs","Vitamins",2017,"0.001","0.001","55.224","0.02",-0.78,-0.213,-0.72
+"Non-CDHP","Inpatient","All Inpatient",2014,"1,055.55","47.517","18,445.40","57.226",0,0,0
+"Non-CDHP","Inpatient","All Inpatient",2015,"1,074.98","47.79","19,176.78","56.056",0.018,0.04,-0.02
+"Non-CDHP","Inpatient","All Inpatient",2016,"1,122.70","50.344","19,855.73","56.543",0.044,0.035,0.009
+"Non-CDHP","Inpatient","All Inpatient",2017,"1,157.09","51.387","20,713.49","55.862",0.031,0.043,-0.012
+"Non-CDHP","Inpatient","Hospice",2014,"1.901","0.128","5,174.98","0.367",0,0,0
+"Non-CDHP","Inpatient","Hospice",2015,"2.037","0.146","5,413.99","0.376",0.072,0.046,0.024
+"Non-CDHP","Inpatient","Hospice",2016,"1.929","0.15","5,183.30","0.372",-0.053,-0.043,-0.011
+"Non-CDHP","Inpatient","Hospice",2017,"1.783","0.137","5,122.35","0.348",-0.075,-0.012,-0.064
+"Non-CDHP","Inpatient","Labor/Delivery/Newborns",2014,"168.445","15.441","8,841.29","19.052",0,0,0
+"Non-CDHP","Inpatient","Labor/Delivery/Newborns",2015,"174.679","15.862","9,113.74","19.167",0.037,0.031,0.006
+"Non-CDHP","Inpatient","Labor/Delivery/Newborns",2016,"181.789","17.162","9,319.04","19.507",0.041,0.023,0.018
+"Non-CDHP","Inpatient","Labor/Delivery/Newborns",2017,"187.873","17.841","9,633.52","19.502",0.033,0.034,0
+"Non-CDHP","Inpatient","Medical",2014,"312.584","14.889","17,141.64","18.235",0,0,0
+"Non-CDHP","Inpatient","Medical",2015,"312.667","14.618","17,766.56","17.599",0,0.036,-0.035
+"Non-CDHP","Inpatient","Medical",2016,"317.611","14.835","18,389.94","17.271",0.016,0.035,-0.019
+"Non-CDHP","Inpatient","Medical",2017,"329.208","14.876","19,390.68","16.978",0.037,0.054,-0.017
+"Non-CDHP","Inpatient","Mental Health",2014,"24.072","2.47","8,450.11","2.849",0,0,0
+"Non-CDHP","Inpatient","Mental Health",2015,"25.147","2.513","8,858.27","2.839",0.045,0.048,-0.004
+"Non-CDHP","Inpatient","Mental Health",2016,"26.322","2.678","9,342.39","2.817",0.047,0.055,-0.008
+"Non-CDHP","Inpatient","Mental Health",2017,"28.145","2.957","9,437.85","2.982",0.069,0.01,0.058
+"Non-CDHP","Inpatient","Other",2014,"9.003","0.223","28,705.09","0.314",0,0,0
+"Non-CDHP","Inpatient","Other",2015,"11.591","0.297","30,891.29","0.375",0.287,0.076,0.196
+"Non-CDHP","Inpatient","Other",2016,"12.514","0.32","31,936.80","0.392",0.08,0.034,0.044
+"Non-CDHP","Inpatient","Other",2017,"13.008","0.316","34,500.43","0.377",0.04,0.08,-0.038
+"Non-CDHP","Inpatient","SNF",2014,"7.223","0.285","6,410.17","1.127",0,0,0
+"Non-CDHP","Inpatient","SNF",2015,"6.747","0.292","6,416.93","1.051",-0.066,0.001,-0.067
+"Non-CDHP","Inpatient","SNF",2016,"6.499","0.269","6,388.28","1.017",-0.037,-0.004,-0.032
+"Non-CDHP","Inpatient","SNF",2017,"6.12","0.266","6,380.09","0.959",-0.058,-0.001,-0.057
+"Non-CDHP","Inpatient","Substance Use",2014,"13.276","1.765","8,538.93","1.555",0,0,0
+"Non-CDHP","Inpatient","Substance Use",2015,"14.871","2.077","8,946.08","1.662",0.12,0.048,0.069
+"Non-CDHP","Inpatient","Substance Use",2016,"17.387","2.465","9,876.87","1.76",0.169,0.104,0.059
+"Non-CDHP","Inpatient","Substance Use",2017,"20.184","2.715","10,952.33","1.843",0.161,0.109,0.047
+"Non-CDHP","Inpatient","Surgical",2014,"519.047","12.315","37,812.12","13.727",0,0,0
+"Non-CDHP","Inpatient","Surgical",2015,"527.241","11.985","39,486.00","13.353",0.016,0.044,-0.027
+"Non-CDHP","Inpatient","Surgical",2016,"558.652","12.468","40,991.32","13.629",0.06,0.038,0.021
+"Non-CDHP","Inpatient","Surgical",2017,"570.771","12.278","42,831.18","13.326",0.022,0.045,-0.022
+"Non-CDHP","Outpatient","All Outpatient",2014,"1,404.08","188.578","498.397","2,817.19",0,0,0
+"Non-CDHP","Outpatient","All Outpatient",2015,"1,455.92","197.132","515.577","2,823.87",0.037,0.034,0.003
+"Non-CDHP","Outpatient","All Outpatient",2016,"1,543.25","214.325","534.554","2,886.99",0.06,0.036,0.023
+"Non-CDHP","Outpatient","All Outpatient",2017,"1,615.69","224.498","564.283","2,863.27",0.047,0.056,-0.008
+"Non-CDHP","Outpatient","All Outpatient Procedures",2014,"526.328","76.357","211.061","2,493.72",0,0,0
+"Non-CDHP","Outpatient","All Outpatient Procedures",2015,"540.585","79.267","214.569","2,519.39",0.027,0.017,0.01
+"Non-CDHP","Outpatient","All Outpatient Procedures",2016,"572.7","85.867","218.874","2,616.58",0.059,0.02,0.039
+"Non-CDHP","Outpatient","All Outpatient Procedures",2017,"592.538","89.203","228.98","2,587.73",0.035,0.046,-0.011
+"Non-CDHP","Outpatient","Ambulance",2014,"33.545","3.938","665.562","50.401",0,0,0
+"Non-CDHP","Outpatient","Ambulance",2015,"34.783","4.14","697.211","49.888",0.037,0.048,-0.01
+"Non-CDHP","Outpatient","Ambulance",2016,"36.701","4.492","715.64","51.284",0.055,0.026,0.028
+"Non-CDHP","Outpatient","Ambulance",2017,"38.249","4.624","744.119","51.402",0.042,0.04,0.002
+"Non-CDHP","Outpatient","DME",2014,"49.633","11.807","135.898","365.225",0,0,0
+"Non-CDHP","Outpatient","DME",2015,"50.935","12.27","137.038","371.684",0.026,0.008,0.018
+"Non-CDHP","Outpatient","DME",2016,"53.047","12.954","135.723","390.849",0.041,-0.01,0.052
+"Non-CDHP","Outpatient","DME",2017,"53.784","13.208","136.085","395.225",0.014,0.003,0.011
+"Non-CDHP","Outpatient","Lab",2014,"69.423","12.545","64.88","1,070.02",0,0,0
+"Non-CDHP","Outpatient","Lab",2015,"68.691","12.6","62.918","1,091.76",-0.011,-0.03,0.02
+"Non-CDHP","Outpatient","Lab",2016,"78.036","14.329","65.482","1,191.72",0.136,0.041,0.092
+"Non-CDHP","Outpatient","Lab",2017,"79.335","15.313","64.903","1,222.37",0.017,-0.009,0.026
+"Non-CDHP","Outpatient","Other Outpatient",2014,"181.13","19.331","286.531","632.146",0,0,0
+"Non-CDHP","Outpatient","Other Outpatient",2015,"191.808","20.592","296.371","647.188",0.059,0.034,0.024
+"Non-CDHP","Outpatient","Other Outpatient",2016,"203.715","22.083","302.032","674.481",0.062,0.019,0.042
+"Non-CDHP","Outpatient","Other Outpatient",2017,"212.255","23.015","309.247","686.359",0.042,0.024,0.018
+"Non-CDHP","Outpatient","Radiology",2014,"192.597","28.736","512.323","375.929",0,0,0
+"Non-CDHP","Outpatient","Radiology",2015,"194.368","29.664","523.682","371.157",0.009,0.022,-0.013
+"Non-CDHP","Outpatient","Radiology",2016,"201.2","32.01","539.075","373.232",0.035,0.029,0.006
+"Non-CDHP","Outpatient","Radiology",2017,"208.915","33.043","615.256","339.559",0.038,0.141,-0.09
+"Non-CDHP","Outpatient","All Outpatient Visits",2014,"877.75","112.22","2,713.57","323.467",0,0,0
+"Non-CDHP","Outpatient","All Outpatient Visits",2015,"915.338","117.864","2,834.76","322.898",0.043,0.045,-0.002
+"Non-CDHP","Outpatient","All Outpatient Visits",2016,"970.551","128.457","2,964.89","327.349",0.06,0.046,0.014
+"Non-CDHP","Outpatient","All Outpatient Visits",2017,"1,023.15","135.295","3,146.65","325.156",0.054,0.061,-0.007
+"Non-CDHP","Outpatient","ER",2014,"310.244","49.954","1,689.78","183.6",0,0,0
+"Non-CDHP","Outpatient","ER",2015,"336.273","55.045","1,783.67","188.529",0.084,0.056,0.027
+"Non-CDHP","Outpatient","ER",2016,"364.42","61.954","1,873.92","194.469",0.084,0.051,0.032
+"Non-CDHP","Outpatient","ER",2017,"390.265","67.156","1,973.62","197.741",0.071,0.053,0.017
+"Non-CDHP","Outpatient","Observation",2014,"40.47","3.405","2,031.60","19.92",0,0,0
+"Non-CDHP","Outpatient","Observation",2015,"40.912","3.471","2,119.05","19.307",0.011,0.043,-0.031
+"Non-CDHP","Outpatient","Observation",2016,"42.149","3.725","2,161.35","19.501",0.03,0.02,0.01
+"Non-CDHP","Outpatient","Observation",2017,"47.222","4.036","2,360.04","20.009",0.12,0.092,0.026
+"Non-CDHP","Outpatient","Surgery",2014,"527.036","58.861","4,393.91","119.947",0,0,0
+"Non-CDHP","Outpatient","Surgery",2015,"538.153","59.348","4,528.30","118.842",0.021,0.031,-0.009
+"Non-CDHP","Outpatient","Surgery",2016,"563.982","62.779","4,706.15","119.84",0.048,0.039,0.008
+"Non-CDHP","Outpatient","Surgery",2017,"585.666","64.104","4,964.11","117.98",0.038,0.055,-0.016
+"Non-CDHP","Professional","Administered Drugs",2014,"180.256","6.093","462.706","389.57",0,0,0
+"Non-CDHP","Professional","Administered Drugs",2015,"200.447","6.544","541.768","369.987",0.112,0.171,-0.05
+"Non-CDHP","Professional","Administered Drugs",2016,"224.656","7.256","615.991","364.706",0.121,0.137,-0.014
+"Non-CDHP","Professional","Administered Drugs",2017,"251.025","8.289","701.627","357.776",0.117,0.139,-0.019
+"Non-CDHP","Professional","Administration of Drugs",2014,"31.726","2.137","51.007","621.992",0,0,0
+"Non-CDHP","Professional","Administration of Drugs",2015,"34.026","2.158","53.31","638.273",0.073,0.045,0.026
+"Non-CDHP","Professional","Administration of Drugs",2016,"34.917","2.279","53.912","647.676",0.026,0.011,0.015
+"Non-CDHP","Professional","Administration of Drugs",2017,"41.302","2.421","63.611","649.302",0.183,0.18,0.003
+"Non-CDHP","Professional","All Professional Services",2014,"1,763.02","307.311","102.054","17,275.41",0,0,0
+"Non-CDHP","Professional","All Professional Services",2015,"1,827.81","317.384","104.912","17,422.42",0.037,0.028,0.009
+"Non-CDHP","Professional","All Professional Services",2016,"1,890.96","329.594","107.837","17,535.31",0.035,0.028,0.006
+"Non-CDHP","Professional","All Professional Services",2017,"1,978.09","335.679","111.946","17,669.99",0.046,0.038,0.008
+"Non-CDHP","Professional","Anesthesia",2014,"103.875","13.569","737.061","140.931",0,0,0
+"Non-CDHP","Professional","Anesthesia",2015,"106.776","13.822","752.984","141.804",0.028,0.022,0.006
+"Non-CDHP","Professional","Anesthesia",2016,"109.537","13.952","760.671","144",0.026,0.01,0.015
+"Non-CDHP","Professional","Anesthesia",2017,"111.602","14.382","766.741","145.554",0.019,0.008,0.011
+"Non-CDHP","Professional","ER",2014,"76.3","7.705","389.326","195.981",0,0,0
+"Non-CDHP","Professional","ER",2015,"83.391","8.782","410.064","203.361",0.093,0.053,0.038
+"Non-CDHP","Professional","ER",2016,"87.739","10.022","418.66","209.571",0.052,0.021,0.031
+"Non-CDHP","Professional","ER",2017,"90.474","10.403","421.306","214.748",0.031,0.006,0.025
+"Non-CDHP","Professional","Immunizations",2014,"32.456","0.431","65.256","497.368",0,0,0
+"Non-CDHP","Professional","Immunizations",2015,"34.535","0.414","67.335","512.886",0.064,0.032,0.031
+"Non-CDHP","Professional","Immunizations",2016,"38.014","0.432","68.618","554.003",0.101,0.019,0.08
+"Non-CDHP","Professional","Immunizations",2017,"38.257","0.404","71.128","537.86",0.006,0.037,-0.029
+"Non-CDHP","Professional","Lab",2014,"157.401","34.438","31.625","4,977.07",0,0,0
+"Non-CDHP","Professional","Lab",2015,"160.419","35.445","31.364","5,114.68",0.019,-0.008,0.028
+"Non-CDHP","Professional","Lab",2016,"146.535","32.651","29.745","4,926.34",-0.087,-0.052,-0.037
+"Non-CDHP","Professional","Lab",2017,"147.848","32.377","29.374","5,033.38",0.009,-0.012,0.022
+"Non-CDHP","Professional","Office Visits",2014,"362.516","93.906","104.898","3,455.88",0,0,0
+"Non-CDHP","Professional","Office Visits",2015,"376.463","96.025","108.124","3,481.79",0.038,0.031,0.007
+"Non-CDHP","Professional","Office Visits",2016,"390.809","99.75","111.029","3,519.89",0.038,0.027,0.011
+"Non-CDHP","Professional","Office Visits",2017,"405.282","101.011","113.498","3,570.84",0.037,0.022,0.014
+"Non-CDHP","Professional","Other Services",2014,"258.951","34.809","97.905","2,644.92",0,0,0
+"Non-CDHP","Professional","Other Services",2015,"265.21","36.329","98.014","2,705.83",0.024,0.001,0.023
+"Non-CDHP","Professional","Other Services",2016,"282.665","41.141","101.518","2,784.39",0.066,0.036,0.029
+"Non-CDHP","Professional","Other Services",2017,"302.55","42.117","103.495","2,923.32",0.07,0.019,0.05
+"Non-CDHP","Professional","Physical Medicine",2014,"78.001","28.256","40.55","1,923.54",0,0,0
+"Non-CDHP","Professional","Physical Medicine",2015,"79.229","28.557","41.139","1,925.88",0.016,0.015,0.001
+"Non-CDHP","Professional","Physical Medicine",2016,"80.139","28.731","43.342","1,849.00",0.011,0.054,-0.04
+"Non-CDHP","Professional","Physical Medicine",2017,"80.364","28.686","44.355","1,811.85",0.003,0.023,-0.02
+"Non-CDHP","Professional","Psychiatry",2014,"46.126","15.869","94.8","486.56",0,0,0
+"Non-CDHP","Professional","Psychiatry",2015,"49.55","16.449","97.047","510.579",0.074,0.024,0.049
+"Non-CDHP","Professional","Psychiatry",2016,"54.152","17.587","99.309","545.291",0.093,0.023,0.068
+"Non-CDHP","Professional","Psychiatry",2017,"58.89","18.378","100.746","584.543",0.087,0.014,0.072
+"Non-CDHP","Professional","Radiology",2014,"152.611","26.142","121.975","1,251.17",0,0,0
+"Non-CDHP","Professional","Radiology",2015,"154.67","27.333","124.611","1,241.22",0.013,0.022,-0.008
+"Non-CDHP","Professional","Radiology",2016,"155.356","28.465","126.216","1,230.88",0.004,0.013,-0.008
+"Non-CDHP","Professional","Radiology",2017,"161.725","29.054","141.253","1,144.93",0.041,0.119,-0.07
+"Non-CDHP","Professional","Surgical",2014,"282.798","43.957","409.595","690.433",0,0,0
+"Non-CDHP","Professional","Surgical",2015,"283.098","45.526","415.775","680.892",0.001,0.015,-0.014
+"Non-CDHP","Professional","Surgical",2016,"286.439","47.328","421.68","679.279",0.012,0.014,-0.002
+"Non-CDHP","Professional","Surgical",2017,"288.764","48.157","431.144","669.762",0.008,0.022,-0.014
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2014,"940.592","153.837","95.383","9,861.23",0,0,0
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2015,"1,027.71","145.965","104.283","9,855.00",0.093,0.093,-0.001
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2016,"1,089.77","145.08","109.767","9,928.10",0.06,0.053,0.007
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2017,"1,141.34","142.988","110.501","10,328.78",0.047,0.007,0.04
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2014,"672.385","69.623","389.46","1,726.45",0,0,0
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2015,"757.809","63.818","478.696","1,583.07",0.127,0.229,-0.083
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2016,"813.473","61.862","549.059","1,481.58",0.073,0.147,-0.064
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2017,"865.271","60.469","642.253","1,347.24",0.064,0.17,-0.091
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2014,"240.854","80.782","30.363","7,932.35",0,0,0
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2015,"247.917","79.163","30.718","8,070.67",0.029,0.012,0.017
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2016,"262.957","80.768","31.835","8,259.95",0.061,0.036,0.023
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2017,"262.702","80.189","29.891","8,788.71",-0.001,-0.061,0.064
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2014,"27.353","3.432","135.13","202.419",0,0,0
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2015,"21.984","2.983","109.226","201.267",-0.196,-0.192,-0.006
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2016,"13.344","2.451","71.521","186.569",-0.393,-0.345,-0.073
+"Non-CDHP","Prescription Drugs","All Prescription Drugs",2017,"13.367","2.329","69.322","192.83",0.002,-0.031,0.034
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2014,"114.388","13.638","270.706","422.553",0,0,0
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2015,"139.022","13.751","331.064","419.924",0.215,0.223,-0.006
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2016,"127.974","13.191","312.274","409.813",-0.079,-0.057,-0.024
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2017,"125.721","13.005","301.569","416.888",-0.018,-0.034,0.017
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2014,"90.167","4.301","1,747.26","51.605",0,0,0
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2015,"113.569","4.261","2,353.94","48.247",0.26,0.347,-0.065
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2016,"102.682","3.806","2,277.57","45.084",-0.096,-0.032,-0.066
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2017,"98.76","3.552","2,306.15","42.825",-0.038,0.013,-0.05
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2014,"23.782","9.311","64.181","370.542",0,0,0
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2015,"25.223","9.479","67.902","371.458",0.061,0.058,0.002
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2016,"25.275","9.382","69.312","364.65",0.002,0.021,-0.018
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2017,"26.954","9.451","72.069","374.003",0.066,0.04,0.026
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2014,"0.439","0.026","1,079.61","0.406",0,0,0
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2015,"0.23","0.012","1,045.76","0.22",-0.477,-0.031,-0.46
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2016,"0.018","0.003","221.339","0.079",-0.924,-0.788,-0.64
+"Non-CDHP","Prescription Drugs","Anti-Infectives",2017,"0.007","0.002","110.635","0.061",-0.616,-0.5,-0.232
+"Non-CDHP","Prescription Drugs","Antihistamines",2014,"1.425","0.492","40.908","34.823",0,0,0
+"Non-CDHP","Prescription Drugs","Antihistamines",2015,"1.03","0.448","29.587","34.827",-0.277,-0.277,0
+"Non-CDHP","Prescription Drugs","Antihistamines",2016,"0.897","0.467","23.221","38.633",-0.129,-0.215,0.109
+"Non-CDHP","Prescription Drugs","Antihistamines",2017,"0.841","0.402","22.16","37.945",-0.063,-0.046,-0.018
+"Non-CDHP","Prescription Drugs","Antihistamines",2014,"0.143","0.051","104.377","1.374",0,0,0
+"Non-CDHP","Prescription Drugs","Antihistamines",2015,"0.115","0.04","106.277","1.079",-0.2,0.018,-0.215
+"Non-CDHP","Prescription Drugs","Antihistamines",2016,"0.12","0.038","106.347","1.128",0.046,0.001,0.046
+"Non-CDHP","Prescription Drugs","Antihistamines",2017,"0.105","0.032","95.266","1.1",-0.126,-0.104,-0.025
+"Non-CDHP","Prescription Drugs","Antihistamines",2014,"0.883","0.432","26.518","33.317",0,0,0
+"Non-CDHP","Prescription Drugs","Antihistamines",2015,"0.794","0.404","23.563","33.679",-0.102,-0.111,0.011
+"Non-CDHP","Prescription Drugs","Antihistamines",2016,"0.775","0.428","20.674","37.491",-0.023,-0.123,0.113
+"Non-CDHP","Prescription Drugs","Antihistamines",2017,"0.735","0.37","19.966","36.836",-0.051,-0.034,-0.017
+"Non-CDHP","Prescription Drugs","Antihistamines",2014,"0.398","0.01","2,991.85","0.133",0,0,0
+"Non-CDHP","Prescription Drugs","Antihistamines",2015,"0.122","0.004","1,775.28","0.069",-0.693,-0.407,-0.482
+"Non-CDHP","Prescription Drugs","Antihistamines",2016,"0.002","0.001","146.456","0.014",-0.984,-0.918,-0.803
+"Non-CDHP","Prescription Drugs","Antihistamines",2017,"0.001","0","64.496","0.008",-0.739,-0.56,-0.408
+"Non-CDHP","Prescription Drugs","Autonomic",2014,"24.416","6.513","81.738","298.706",0,0,0
+"Non-CDHP","Prescription Drugs","Autonomic",2015,"27.91","6.33","91.066","306.484",0.143,0.114,0.026
+"Non-CDHP","Prescription Drugs","Autonomic",2016,"30.068","6.545","98.501","305.258",0.077,0.082,-0.004
+"Non-CDHP","Prescription Drugs","Autonomic",2017,"29.38","6.956","93.084","315.631",-0.023,-0.055,0.034
+"Non-CDHP","Prescription Drugs","Autonomic",2014,"12.99","3.807","110.585","117.462",0,0,0
+"Non-CDHP","Prescription Drugs","Autonomic",2015,"14.778","3.661","122.401","120.735",0.138,0.107,0.028
+"Non-CDHP","Prescription Drugs","Autonomic",2016,"14.69","3.812","126.006","116.583",-0.006,0.029,-0.034
+"Non-CDHP","Prescription Drugs","Autonomic",2017,"17.812","4.552","149.01","119.537",0.213,0.183,0.025
+"Non-CDHP","Prescription Drugs","Autonomic",2014,"10.794","2.665","59.797","180.51",0,0,0
+"Non-CDHP","Prescription Drugs","Autonomic",2015,"12.909","2.654","69.6","185.48",0.196,0.164,0.028
+"Non-CDHP","Prescription Drugs","Autonomic",2016,"15.366","2.731","81.46","188.631",0.19,0.17,0.017
+"Non-CDHP","Prescription Drugs","Autonomic",2017,"11.566","2.404","58.99","196.069",-0.247,-0.276,0.039
+"Non-CDHP","Prescription Drugs","Autonomic",2014,"0.632","0.041","862.336","0.733",0,0,0
+"Non-CDHP","Prescription Drugs","Autonomic",2015,"0.223","0.015","825.079","0.27",-0.647,-0.043,-0.632
+"Non-CDHP","Prescription Drugs","Autonomic",2016,"0.012","0.002","275.581","0.044",-0.946,-0.666,-0.837
+"Non-CDHP","Prescription Drugs","Autonomic",2017,"0.002","0.001","77.778","0.025",-0.841,-0.718,-0.436
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2014,"47.395","0.938","5,204.35","9.107",0,0,0
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2015,"53.42","0.999","5,723.19","9.334",0.127,0.1,0.025
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2016,"56.756","0.999","6,306.81","8.999",0.062,0.102,-0.036
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2017,"60.267","1.056","6,812.67","8.846",0.062,0.08,-0.017
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2014,"47.395","0.938","5,204.35","9.107",0,0,0
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2015,"52.797","0.996","5,743.50","9.192",0.114,0.104,0.009
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2016,"55.729","0.99","6,361.00","8.761",0.056,0.108,-0.047
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2017,"59.269","1.043","6,876.78","8.619",0.064,0.081,-0.016
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2015,"0.623","0.003","4,403.84","0.142",0,0,0
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2016,"1.027","0.009","4,312.39","0.238",0.647,-0.021,0.682
+"Non-CDHP","Prescription Drugs","Bio Response Modifiers",2017,"0.999","0.013","4,385.73","0.228",-0.027,0.017,-0.044
+"Non-CDHP","Prescription Drugs","Blood",2014,"21.805","1.676","214.34","101.73",0,0,0
+"Non-CDHP","Prescription Drugs","Blood",2015,"25.957","1.684","255.57","101.565",0.19,0.192,-0.002
+"Non-CDHP","Prescription Drugs","Blood",2016,"29.674","1.926","289.047","102.66",0.143,0.131,0.011
+"Non-CDHP","Prescription Drugs","Blood",2017,"31.71","2.238","294.852","107.547",0.069,0.02,0.048
+"Non-CDHP","Prescription Drugs","Blood",2014,"17.879","0.912","766.519","23.325",0,0,0
+"Non-CDHP","Prescription Drugs","Blood",2015,"22.855","1.054","823.695","27.747",0.278,0.075,0.19
+"Non-CDHP","Prescription Drugs","Blood",2016,"26.356","1.319","803.844","32.787",0.153,-0.024,0.182
+"Non-CDHP","Prescription Drugs","Blood",2017,"28.27","1.665","736.293","38.394",0.073,-0.084,0.171
+"Non-CDHP","Prescription Drugs","Blood",2014,"3.81","0.76","48.614","78.369",0,0,0
+"Non-CDHP","Prescription Drugs","Blood",2015,"3.065","0.629","41.524","73.805",-0.196,-0.146,-0.058
+"Non-CDHP","Prescription Drugs","Blood",2016,"3.311","0.607","47.388","69.87",0.08,0.141,-0.053
+"Non-CDHP","Prescription Drugs","Blood",2017,"3.428","0.574","49.568","69.15",0.035,0.046,-0.01
+"Non-CDHP","Prescription Drugs","Blood",2014,"0.116","0.004","3,228.62","0.036",0,0,0
+"Non-CDHP","Prescription Drugs","Blood",2015,"0.037","0.001","2,967.88","0.012",-0.683,-0.081,-0.655
+"Non-CDHP","Prescription Drugs","Blood",2016,"0.007","0","2,650.23","0.003",-0.817,-0.107,-0.795
+"Non-CDHP","Prescription Drugs","Blood",2017,"0.013","0","5,199.72","0.003",0.96,0.962,-0.001
+"Non-CDHP","Prescription Drugs","Cardiovascular",2014,"90.605","28.175","35.823","2,529.26",0,0,0
+"Non-CDHP","Prescription Drugs","Cardiovascular",2015,"83.992","25.532","33.28","2,523.77",-0.073,-0.071,-0.002
+"Non-CDHP","Prescription Drugs","Cardiovascular",2016,"80.218","24.538","31.567","2,541.24",-0.045,-0.051,0.007
+"Non-CDHP","Prescription Drugs","Cardiovascular",2017,"67.016","22.555","25.347","2,643.97",-0.165,-0.197,0.04
+"Non-CDHP","Prescription Drugs","Cardiovascular",2014,"53.656","11.061","179.053","299.663",0,0,0
+"Non-CDHP","Prescription Drugs","Cardiovascular",2015,"51.241","9.288","207.08","247.444",-0.045,0.157,-0.174
+"Non-CDHP","Prescription Drugs","Cardiovascular",2016,"45.657","7.764","242.633","188.174",-0.109,0.172,-0.24
+"Non-CDHP","Prescription Drugs","Cardiovascular",2017,"28.09","4.793","287.005","97.872",-0.385,0.183,-0.48
+"Non-CDHP","Prescription Drugs","Cardiovascular",2014,"36.739","17.088","16.482","2,229.10",0,0,0
+"Non-CDHP","Prescription Drugs","Cardiovascular",2015,"32.603","16.233","14.324","2,276.07",-0.113,-0.131,0.021
+"Non-CDHP","Prescription Drugs","Cardiovascular",2016,"34.521","16.771","14.671","2,352.96",0.059,0.024,0.034
+"Non-CDHP","Prescription Drugs","Cardiovascular",2017,"38.897","17.759","15.278","2,545.98",0.127,0.041,0.082
+"Non-CDHP","Prescription Drugs","Cardiovascular",2014,"0.211","0.025","416.642","0.505",0,0,0
+"Non-CDHP","Prescription Drugs","Cardiovascular",2015,"0.149","0.011","563.68","0.264",-0.293,0.353,-0.478
+"Non-CDHP","Prescription Drugs","Cardiovascular",2016,"0.04","0.003","395.14","0.102",-0.73,-0.299,-0.615
+"Non-CDHP","Prescription Drugs","Cardiovascular",2017,"0.029","0.003","241.299","0.119",-0.283,-0.389,0.175
+"Non-CDHP","Prescription Drugs","Central Nervous System",2014,"184.474","37.876","73.784","2,500.20",0,0,0
+"Non-CDHP","Prescription Drugs","Central Nervous System",2015,"175.272","35.519","69.607","2,518.01",-0.05,-0.057,0.007
+"Non-CDHP","Prescription Drugs","Central Nervous System",2016,"177.527","35.614","69.134","2,567.88",0.013,-0.007,0.02
+"Non-CDHP","Prescription Drugs","Central Nervous System",2017,"171.841","34.498","64.077","2,681.82",-0.032,-0.073,0.044
+"Non-CDHP","Prescription Drugs","Central Nervous System",2014,"102.8","12.923","372.053","276.305",0,0,0
+"Non-CDHP","Prescription Drugs","Central Nervous System",2015,"98.398","11.335","408.491","240.883",-0.043,0.098,-0.128
+"Non-CDHP","Prescription Drugs","Central Nervous System",2016,"100.458","11.113","435.371","230.74",0.021,0.066,-0.042
+"Non-CDHP","Prescription Drugs","Central Nervous System",2017,"98.425","10.83","458.901","214.479",-0.02,0.054,-0.07
+"Non-CDHP","Prescription Drugs","Central Nervous System",2014,"75.298","24.667","33.917","2,220.05",0,0,0
+"Non-CDHP","Prescription Drugs","Central Nervous System",2015,"74.804","24.102","32.868","2,275.90",-0.007,-0.031,0.025
+"Non-CDHP","Prescription Drugs","Central Nervous System",2016,"76.922","24.491","32.917","2,336.84",0.028,0.001,0.027
+"Non-CDHP","Prescription Drugs","Central Nervous System",2017,"73.303","23.662","29.712","2,467.08",-0.047,-0.097,0.056
+"Non-CDHP","Prescription Drugs","Central Nervous System",2014,"6.377","0.286","1,659.85","3.842",0,0,0
+"Non-CDHP","Prescription Drugs","Central Nervous System",2015,"2.069","0.082","1,677.75","1.233",-0.675,0.011,-0.679
+"Non-CDHP","Prescription Drugs","Central Nervous System",2016,"0.147","0.011","494.67","0.297",-0.929,-0.705,-0.759
+"Non-CDHP","Prescription Drugs","Central Nervous System",2017,"0.114","0.006","446.008","0.255",-0.226,-0.098,-0.141
+"Non-CDHP","Prescription Drugs","Chemotherapy",2014,"34.014","0.869","636.83","53.411",0,0,0
+"Non-CDHP","Prescription Drugs","Chemotherapy",2015,"40.034","0.766","737.168","54.307",0.177,0.158,0.017
+"Non-CDHP","Prescription Drugs","Chemotherapy",2016,"48.363","0.861","853.289","56.679",0.208,0.158,0.044
+"Non-CDHP","Prescription Drugs","Chemotherapy",2017,"56.573","0.785","1,073.84","52.683",0.17,0.258,-0.07
+"Non-CDHP","Prescription Drugs","Chemotherapy",2014,"29.117","0.35","7,099.06","4.101",0,0,0
+"Non-CDHP","Prescription Drugs","Chemotherapy",2015,"34.764","0.306","8,223.59","4.227",0.194,0.158,0.031
+"Non-CDHP","Prescription Drugs","Chemotherapy",2016,"42.826","0.385","8,555.15","5.006",0.232,0.04,0.184
+"Non-CDHP","Prescription Drugs","Chemotherapy",2017,"49.007","0.375","9,372.56","5.229",0.144,0.096,0.045
+"Non-CDHP","Prescription Drugs","Chemotherapy",2014,"4.815","0.516","97.79","49.234",0,0,0
+"Non-CDHP","Prescription Drugs","Chemotherapy",2015,"5.229","0.458","104.509","50.029",0.086,0.069,0.016
+"Non-CDHP","Prescription Drugs","Chemotherapy",2016,"5.534","0.476","107.121","51.662",0.058,0.025,0.033
+"Non-CDHP","Prescription Drugs","Chemotherapy",2017,"7.565","0.409","159.45","47.446",0.367,0.488,-0.082
+"Non-CDHP","Prescription Drugs","Chemotherapy",2014,"0.083","0.003","1,096.06","0.075",0,0,0
+"Non-CDHP","Prescription Drugs","Chemotherapy",2015,"0.041","0.002","807.125","0.051",-0.506,-0.264,-0.329
+"Non-CDHP","Prescription Drugs","Chemotherapy",2016,"0.003","0","245.414","0.011",-0.933,-0.696,-0.781
+"Non-CDHP","Prescription Drugs","Chemotherapy",2017,"0.001","0","76.024","0.008",-0.772,-0.69,-0.264
+"Non-CDHP","Prescription Drugs","Devices",2014,"3.345","1.05","36.78","90.94",0,0,0
+"Non-CDHP","Prescription Drugs","Devices",2015,"3.916","1.07","41.84","93.595",0.171,0.138,0.029
+"Non-CDHP","Prescription Drugs","Devices",2016,"3.902","1.107","41.261","94.566",-0.004,-0.014,0.01
+"Non-CDHP","Prescription Drugs","Devices",2017,"4.551","1.132","45.499","100.018",0.166,0.103,0.058
+"Non-CDHP","Prescription Drugs","Devices",2014,"0.497","0.055","527.008","0.942",0,0,0
+"Non-CDHP","Prescription Drugs","Devices",2015,"0.68","0.058","738.442","0.921",0.369,0.401,-0.023
+"Non-CDHP","Prescription Drugs","Devices",2016,"0.582","0.056","791.452","0.735",-0.144,0.072,-0.201
+"Non-CDHP","Prescription Drugs","Devices",2017,"0.875","0.07","1,303.74","0.671",0.504,0.647,-0.087
+"Non-CDHP","Prescription Drugs","Devices",2014,"0.331","0.031","583.398","0.567",0,0,0
+"Non-CDHP","Prescription Drugs","Devices",2015,"0.366","0.039","564.265","0.649",0.107,-0.033,0.145
+"Non-CDHP","Prescription Drugs","Devices",2016,"0.395","0.052","551.417","0.716",0.078,-0.023,0.103
+"Non-CDHP","Prescription Drugs","Devices",2017,"0.099","0.029","342.001","0.289",-0.75,-0.38,-0.597
+"Non-CDHP","Prescription Drugs","Devices",2014,"2.517","0.964","28.149","89.431",0,0,0
+"Non-CDHP","Prescription Drugs","Devices",2015,"2.87","0.974","31.184","92.025",0.14,0.108,0.029
+"Non-CDHP","Prescription Drugs","Devices",2016,"2.925","0.999","31.413","93.115",0.019,0.007,0.012
+"Non-CDHP","Prescription Drugs","Devices",2017,"3.577","1.033","36.108","99.058",0.223,0.149,0.064
+"Non-CDHP","Prescription Drugs","Diagnostic",2014,"12.528","1.548","135.249","92.632",0,0,0
+"Non-CDHP","Prescription Drugs","Diagnostic",2015,"12.035","1.48","127.127","94.669",-0.039,-0.06,0.022
+"Non-CDHP","Prescription Drugs","Diagnostic",2016,"11.652","1.328","134.013","86.948",-0.032,0.054,-0.082
+"Non-CDHP","Prescription Drugs","Diagnostic",2017,"10.874","1.211","124.107","87.619",-0.067,-0.074,0.008
+"Non-CDHP","Prescription Drugs","Diagnostic",2014,"2.175","0.012","30,315.83","0.072",0,0,0
+"Non-CDHP","Prescription Drugs","Diagnostic",2015,"1.515","0.01","30,671.82","0.049",-0.303,0.012,-0.312
+"Non-CDHP","Prescription Drugs","Diagnostic",2016,"2.108","0.012","48,495.37","0.043",0.391,0.581,-0.12
+"Non-CDHP","Prescription Drugs","Diagnostic",2017,"1.526","0.011","46,718.96","0.033",-0.276,-0.037,-0.249
+"Non-CDHP","Prescription Drugs","Diagnostic",2014,"0.001","0","593.966","0.001",0,0,0
+"Non-CDHP","Prescription Drugs","Diagnostic",2015,"0.001","0","350.752","0.002",-0.247,-0.409,0.275
+"Non-CDHP","Prescription Drugs","Diagnostic",2016,"0.001","0","591.36","0.001",0.056,0.686,-0.374
+"Non-CDHP","Prescription Drugs","Diagnostic",2017,"0.001","0","585.332","0.001",0.011,-0.01,0.021
+"Non-CDHP","Prescription Drugs","Diagnostic",2014,"10.352","1.536","111.843","92.559",0,0,0
+"Non-CDHP","Prescription Drugs","Diagnostic",2015,"10.519","1.47","111.175","94.617",0.016,-0.006,0.022
+"Non-CDHP","Prescription Drugs","Diagnostic",2016,"9.543","1.316","109.814","86.904",-0.093,-0.012,-0.082
+"Non-CDHP","Prescription Drugs","Diagnostic",2017,"9.347","1.199","106.722","87.585",-0.021,-0.028,0.008
+"Non-CDHP","Prescription Drugs","EENT",2014,"21.98","6.729","70.657","311.082",0,0,0
+"Non-CDHP","Prescription Drugs","EENT",2015,"20.437","5.677","82.871","246.617",-0.07,0.173,-0.207
+"Non-CDHP","Prescription Drugs","EENT",2016,"19.487","5.126","89.685","217.279",-0.047,0.082,-0.119
+"Non-CDHP","Prescription Drugs","EENT",2017,"19.953","4.879","88.676","225.007",0.024,-0.011,0.036
+"Non-CDHP","Prescription Drugs","EENT",2014,"14.682","3.388","203.238","72.239",0,0,0
+"Non-CDHP","Prescription Drugs","EENT",2015,"13.869","2.748","245.942","56.393",-0.055,0.21,-0.219
+"Non-CDHP","Prescription Drugs","EENT",2016,"12.215","2.358","282.38","43.258",-0.119,0.148,-0.233
+"Non-CDHP","Prescription Drugs","EENT",2017,"12.11","2.186","319.762","37.872",-0.009,0.132,-0.125
+"Non-CDHP","Prescription Drugs","EENT",2014,"7.297","3.34","30.555","238.82",0,0,0
+"Non-CDHP","Prescription Drugs","EENT",2015,"6.568","2.929","34.528","190.208",-0.1,0.13,-0.204
+"Non-CDHP","Prescription Drugs","EENT",2016,"7.271","2.768","41.786","174.01",0.107,0.21,-0.085
+"Non-CDHP","Prescription Drugs","EENT",2017,"7.842","2.693","41.91","187.124",0.079,0.003,0.075
+"Non-CDHP","Prescription Drugs","EENT",2014,"0.001","0.001","61.717","0.023",0,0,0
+"Non-CDHP","Prescription Drugs","EENT",2015,"0.001","0","31.162","0.017",-0.64,-0.495,-0.287
+"Non-CDHP","Prescription Drugs","EENT",2016,"0","0","24.811","0.011",-0.493,-0.204,-0.363
+"Non-CDHP","Prescription Drugs","EENT",2017,"0","0","25.528","0.01",0.021,0.029,-0.008
+"Non-CDHP","Prescription Drugs","Enzymes",2014,"1.014","0.008","13,283.54","0.076",0,0,0
+"Non-CDHP","Prescription Drugs","Enzymes",2015,"1.17","0.009","13,548.59","0.086",0.155,0.02,0.132
+"Non-CDHP","Prescription Drugs","Enzymes",2016,"2.312","0.016","22,771.62","0.102",0.975,0.681,0.175
+"Non-CDHP","Prescription Drugs","Enzymes",2017,"2.689","0.014","28,043.31","0.096",0.163,0.232,-0.055
+"Non-CDHP","Prescription Drugs","Enzymes",2014,"0.918","0.006","14,536.81","0.063",0,0,0
+"Non-CDHP","Prescription Drugs","Enzymes",2015,"1.026","0.008","14,822.48","0.069",0.118,0.02,0.097
+"Non-CDHP","Prescription Drugs","Enzymes",2016,"2.221","0.013","24,352.37","0.091",1.165,0.643,0.318
+"Non-CDHP","Prescription Drugs","Enzymes",2017,"2.556","0.011","31,086.83","0.082",0.15,0.277,-0.099
+"Non-CDHP","Prescription Drugs","Enzymes",2014,"0.093","0.001","8,077.04","0.011",0,0,0
+"Non-CDHP","Prescription Drugs","Enzymes",2015,"0.144","0.001","8,457.54","0.017",0.549,0.047,0.48
+"Non-CDHP","Prescription Drugs","Enzymes",2016,"0.09","0.002","8,756.84","0.01",-0.372,0.035,-0.394
+"Non-CDHP","Prescription Drugs","Enzymes",2017,"0.134","0.003","9,766.14","0.014",0.484,0.115,0.331
+"Non-CDHP","Prescription Drugs","Enzymes",2014,"0.003","0","1,995.71","0.002",0,0,0
+"Non-CDHP","Prescription Drugs","Enzymes",2015,"0.001","0","3,520.72","0",-0.815,0.764,-0.895
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2014,"40.114","7.699","89.629","447.554",0,0,0
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2015,"38.376","6.816","86.59","443.191",-0.043,-0.034,-0.01
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2016,"39.517","6.499","90.021","438.976",0.03,0.04,-0.01
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2017,"40.341","6.202","90.142","447.524",0.021,0.001,0.019
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2014,"30.886","4.049","334.417","92.357",0,0,0
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2015,"26.375","3.185","406.65","64.86",-0.146,0.216,-0.298
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2016,"27.078","2.882","479.557","56.465",0.027,0.179,-0.129
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2017,"27.64","2.644","534.931","51.67",0.021,0.115,-0.085
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2014,"9.183","3.642","25.87","354.959",0,0,0
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2015,"11.957","3.625","31.621","378.144",0.302,0.222,0.065
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2016,"12.419","3.615","32.475","382.434",0.039,0.027,0.011
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2017,"12.667","3.557","32.004","395.782",0.02,-0.014,0.035
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2014,"0.045","0.008","190.001","0.238",0,0,0
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2015,"0.043","0.006","230.413","0.187",-0.044,0.213,-0.212
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2016,"0.019","0.002","251.544","0.076",-0.558,0.092,-0.595
+"Non-CDHP","Prescription Drugs","Gastrointestinal",2017,"0.034","0.001","479.587","0.072",0.808,0.907,-0.052
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"1.177","0.017","6,166.95","0.191",0,0,0
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"1.64","0.016","9,006.20","0.182",0.393,0.46,-0.046
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"1.799","0.015","9,972.81","0.18",0.097,0.107,-0.01
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"1.687","0.015","10,114.23","0.167",-0.062,0.014,-0.075
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"1.15","0.015","6,693.46","0.172",0,0,0
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"1.572","0.016","9,643.34","0.163",0.367,0.441,-0.051
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"1.706","0.015","10,696.52","0.159",0.085,0.109,-0.022
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"1.56","0.014","10,439.29","0.149",-0.085,-0.024,-0.063
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"0.026","0.001","2,434.82","0.011",0,0,0
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"0.067","0","4,739.32","0.014",1.587,0.946,0.329
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"0.093","0.001","4,834.51","0.019",0.377,0.02,0.35
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"0.127","0.001","7,964.37","0.016",0.369,0.647,-0.169
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2014,"0.002","0.001","198.746","0.008",0,0,0
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2015,"0.001","0","154.758","0.005",-0.55,-0.221,-0.423
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2016,"0","0","180.429","0.002",-0.587,0.166,-0.646
+"Non-CDHP","Prescription Drugs","Heavy Metal Antagonists",2017,"0","0","111.411","0.001",-0.488,-0.383,-0.171
+"Non-CDHP","Prescription Drugs","Hormones",2014,"159.141","26.291","85.882","1,853.01",0,0,0
+"Non-CDHP","Prescription Drugs","Hormones",2015,"182.534","25.312","96.937","1,883.03",0.147,0.129,0.016
+"Non-CDHP","Prescription Drugs","Hormones",2016,"202.601","25.597","104.745","1,934.24",0.11,0.081,0.027
+"Non-CDHP","Prescription Drugs","Hormones",2017,"223.425","26.006","109.679","2,037.08",0.103,0.047,0.053
+"Non-CDHP","Prescription Drugs","Hormones",2014,"128.526","17.371","229.915","559.016",0,0,0
+"Non-CDHP","Prescription Drugs","Hormones",2015,"153.694","16.5","279.519","549.852",0.196,0.216,-0.016
+"Non-CDHP","Prescription Drugs","Hormones",2016,"171.486","16.554","311.917","549.779",0.116,0.116,0
+"Non-CDHP","Prescription Drugs","Hormones",2017,"190.049","17.064","363.837","522.345",0.108,0.166,-0.05
+"Non-CDHP","Prescription Drugs","Hormones",2014,"27.747","8.653","21.549","1,287.58",0,0,0
+"Non-CDHP","Prescription Drugs","Hormones",2015,"27.782","8.651","20.91","1,328.64",0.001,-0.03,0.032
+"Non-CDHP","Prescription Drugs","Hormones",2016,"31.006","8.998","22.425","1,382.67",0.116,0.072,0.041
+"Non-CDHP","Prescription Drugs","Hormones",2017,"33.314","8.916","22.01","1,513.55",0.074,-0.018,0.095
+"Non-CDHP","Prescription Drugs","Hormones",2014,"2.868","0.266","447.485","6.409",0,0,0
+"Non-CDHP","Prescription Drugs","Hormones",2015,"1.058","0.161","233.229","4.536",-0.631,-0.479,-0.292
+"Non-CDHP","Prescription Drugs","Hormones",2016,"0.11","0.045","61.284","1.788",-0.896,-0.737,-0.606
+"Non-CDHP","Prescription Drugs","Hormones",2017,"0.063","0.025","53.281","1.184",-0.424,-0.131,-0.338
+"Non-CDHP","Prescription Drugs","Metabolic",2014,"5.077","1.818","16.278","311.921",0,0,0
+"Non-CDHP","Prescription Drugs","Metabolic",2015,"5.782","1.707","18.729","308.737",0.139,0.151,-0.01
+"Non-CDHP","Prescription Drugs","Metabolic",2016,"6.265","1.695","20.366","307.639",0.084,0.087,-0.004
+"Non-CDHP","Prescription Drugs","Metabolic",2017,"6.331","1.554","19.822","319.398",0.011,-0.027,0.038
+"Non-CDHP","Prescription Drugs","Metabolic",2014,"1.956","0.106","315.18","6.207",0,0,0
+"Non-CDHP","Prescription Drugs","Metabolic",2015,"2.768","0.1","449.952","6.152",0.415,0.428,-0.009
+"Non-CDHP","Prescription Drugs","Metabolic",2016,"3.192","0.094","558.509","5.715",0.153,0.241,-0.071
+"Non-CDHP","Prescription Drugs","Metabolic",2017,"2.833","0.092","536.993","5.276",-0.112,-0.039,-0.077
+"Non-CDHP","Prescription Drugs","Metabolic",2014,"3.105","1.709","10.159","305.646",0,0,0
+"Non-CDHP","Prescription Drugs","Metabolic",2015,"3.002","1.606","9.921","302.542",-0.033,-0.023,-0.01
+"Non-CDHP","Prescription Drugs","Metabolic",2016,"3.072","1.601","10.176","301.906",0.024,0.026,-0.002
+"Non-CDHP","Prescription Drugs","Metabolic",2017,"3.497","1.463","11.133","314.107",0.138,0.094,0.04
+"Non-CDHP","Prescription Drugs","Metabolic",2014,"0.016","0.003","235.198","0.069",0,0,0
+"Non-CDHP","Prescription Drugs","Metabolic",2015,"0.013","0.001","295.791","0.043",-0.219,0.258,-0.379
+"Non-CDHP","Prescription Drugs","Metabolic",2016,"0.001","0","64.249","0.018",-0.91,-0.783,-0.584
+"Non-CDHP","Prescription Drugs","Metabolic",2017,"0.001","0","80.239","0.015",0.055,0.249,-0.155
+"Non-CDHP","Prescription Drugs","Miscellaneous",2014,"19.968","2.322","139.779","142.853",0,0,0
+"Non-CDHP","Prescription Drugs","Miscellaneous",2015,"22.886","2.174","159.603","143.393",0.146,0.142,0.004
+"Non-CDHP","Prescription Drugs","Miscellaneous",2016,"21.147","1.94","152.033","139.095",-0.076,-0.047,-0.03
+"Non-CDHP","Prescription Drugs","Miscellaneous",2017,"20.84","1.92","145.167","143.562",-0.015,-0.045,0.032
+"Non-CDHP","Prescription Drugs","Miscellaneous",2014,"14.063","1.275","437.333","32.157",0,0,0
+"Non-CDHP","Prescription Drugs","Miscellaneous",2015,"14.575","0.987","593.601","24.554",0.036,0.357,-0.236
+"Non-CDHP","Prescription Drugs","Miscellaneous",2016,"15.679","0.798","843.486","18.589",0.076,0.421,-0.243
+"Non-CDHP","Prescription Drugs","Miscellaneous",2017,"15.785","0.797","910.027","17.345",0.007,0.079,-0.067
+"Non-CDHP","Prescription Drugs","Miscellaneous",2014,"3.8","0.852","36.247","104.846",0,0,0
+"Non-CDHP","Prescription Drugs","Miscellaneous",2015,"4.847","0.994","42.89","113.02",0.276,0.183,0.078
+"Non-CDHP","Prescription Drugs","Miscellaneous",2016,"5.013","1.089","42.468","118.04",0.034,-0.01,0.044
+"Non-CDHP","Prescription Drugs","Miscellaneous",2017,"4.932","1.08","39.938","123.485",-0.016,-0.06,0.046
+"Non-CDHP","Prescription Drugs","Miscellaneous",2014,"2.104","0.195","359.652","5.85",0,0,0
+"Non-CDHP","Prescription Drugs","Miscellaneous",2015,"3.463","0.193","595.221","5.819",0.646,0.655,-0.005
+"Non-CDHP","Prescription Drugs","Miscellaneous",2016,"0.455","0.053","184.381","2.466",-0.869,-0.69,-0.576
+"Non-CDHP","Prescription Drugs","Miscellaneous",2017,"0.124","0.043","45.461","2.731",-0.727,-0.753,0.108
+"Non-CDHP","Prescription Drugs","Respiratory",2014,"35.871","5.884","139.499","257.143",0,0,0
+"Non-CDHP","Prescription Drugs","Respiratory",2015,"41.146","5.667","154.962","265.526",0.147,0.111,0.033
+"Non-CDHP","Prescription Drugs","Respiratory",2016,"48.013","6.107","173.575","276.612",0.167,0.12,0.042
+"Non-CDHP","Prescription Drugs","Respiratory",2017,"54.092","6.546","183.819","294.266",0.127,0.059,0.064
+"Non-CDHP","Prescription Drugs","Respiratory",2014,"29.13","3.612","289.953","100.465",0,0,0
+"Non-CDHP","Prescription Drugs","Respiratory",2015,"35.249","3.459","345.252","102.095",0.21,0.191,0.016
+"Non-CDHP","Prescription Drugs","Respiratory",2016,"42.075","3.834","397.319","105.898",0.194,0.151,0.037
+"Non-CDHP","Prescription Drugs","Respiratory",2017,"48.166","4.278","430.477","111.889",0.145,0.083,0.057
+"Non-CDHP","Prescription Drugs","Respiratory",2014,"6.637","2.267","42.38","156.609",0,0,0
+"Non-CDHP","Prescription Drugs","Respiratory",2015,"5.868","2.206","35.91","163.404",-0.116,-0.153,0.043
+"Non-CDHP","Prescription Drugs","Respiratory",2016,"5.937","2.273","34.779","170.708",0.012,-0.031,0.045
+"Non-CDHP","Prescription Drugs","Respiratory",2017,"5.926","2.268","32.493","182.371",-0.002,-0.066,0.068
+"Non-CDHP","Prescription Drugs","Respiratory",2014,"0.104","0.005","1,513.97","0.069",0,0,0
+"Non-CDHP","Prescription Drugs","Respiratory",2015,"0.03","0.001","1,087.96","0.028",-0.71,-0.281,-0.596
+"Non-CDHP","Prescription Drugs","Respiratory",2016,"0.001","0","101.602","0.006",-0.979,-0.907,-0.77
+"Non-CDHP","Prescription Drugs","Respiratory",2017,"0","0","40.061","0.006",-0.609,-0.606,-0.007
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2014,"65.712","2.332","2,754.80","23.854",0,0,0
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2015,"84.299","2.625","3,308.88","25.476",0.283,0.201,0.068
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2016,"108.585","2.937","3,977.57","27.299",0.288,0.202,0.072
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2017,"133.269","3.523","4,431.01","30.076",0.227,0.114,0.102
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2014,"65.577","2.303","3,120.91","21.012",0,0,0
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2015,"84.082","2.595","3,702.48","22.71",0.282,0.186,0.081
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2016,"108.183","2.902","4,463.57","24.237",0.287,0.206,0.067
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2017,"132.834","3.483","4,973.00","26.711",0.228,0.114,0.102
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2014,"0.135","0.029","47.345","2.841",0,0,0
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2015,"0.217","0.029","78.344","2.767",0.611,0.655,-0.026
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2016,"0.401","0.035","131.057","3.062",0.851,0.673,0.107
+"Non-CDHP","Prescription Drugs","Rheumatoid Arthritis",2017,"0.435","0.04","129.211","3.365",0.083,-0.014,0.099
+"Non-CDHP","Prescription Drugs","Skin",2014,"48.868","6.123","219.276","222.861",0,0,0
+"Non-CDHP","Prescription Drugs","Skin",2015,"59.287","6.62","266.336","222.602",0.213,0.215,-0.001
+"Non-CDHP","Prescription Drugs","Skin",2016,"65.749","6.86","305.504","215.214",0.109,0.147,-0.033
+"Non-CDHP","Prescription Drugs","Skin",2017,"72.413","6.922","336.529","215.176",0.101,0.102,0
+"Non-CDHP","Prescription Drugs","Skin",2014,"24.365","2.424","595.014","40.949",0,0,0
+"Non-CDHP","Prescription Drugs","Skin",2015,"29.426","2.614","741.137","39.704",0.208,0.246,-0.03
+"Non-CDHP","Prescription Drugs","Skin",2016,"33.603","2.532","987.466","34.029",0.142,0.332,-0.143
+"Non-CDHP","Prescription Drugs","Skin",2017,"44.386","2.403","1,415.31","31.361",0.321,0.433,-0.078
+"Non-CDHP","Prescription Drugs","Skin",2014,"23.815","3.658","132.111","180.266",0,0,0
+"Non-CDHP","Prescription Drugs","Skin",2015,"29.296","3.974","161.58","181.307",0.23,0.223,0.006
+"Non-CDHP","Prescription Drugs","Skin",2016,"32.098","4.314","178.691","179.629",0.096,0.106,-0.009
+"Non-CDHP","Prescription Drugs","Skin",2017,"27.977","4.504","153.574","182.172",-0.128,-0.141,0.014
+"Non-CDHP","Prescription Drugs","Skin",2014,"0.687","0.041","417.705","1.646",0,0,0
+"Non-CDHP","Prescription Drugs","Skin",2015,"0.565","0.032","355.279","1.591",-0.178,-0.149,-0.033
+"Non-CDHP","Prescription Drugs","Skin",2016,"0.048","0.013","30.895","1.556",-0.915,-0.913,-0.022
+"Non-CDHP","Prescription Drugs","Skin",2017,"0.051","0.014","30.769","1.643",0.052,-0.004,0.056
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"3.002","0.596","106.686","28.137",0,0,0
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"2.881","0.535","105.489","27.307",-0.04,-0.011,-0.03
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"3.052","0.543","113.724","26.833",0.059,0.078,-0.017
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"3.203","0.56","116.574","27.476",0.05,0.025,0.024
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"2.078","0.365","213.614","9.729",0,0,0
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"1.888","0.285","244.283","7.73",-0.091,0.144,-0.205
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"2.1","0.286","277.821","7.558",0.112,0.137,-0.022
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"2.254","0.285","309.524","7.283",0.074,0.114,-0.036
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"0.923","0.23","50.165","18.401",0,0,0
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"0.992","0.25","50.686","19.573",0.075,0.01,0.064
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"0.952","0.258","49.378","19.274",-0.041,-0.026,-0.015
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"0.949","0.275","46.986","20.193",-0.003,-0.048,0.048
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2014,"0.001","0","71.413","0.007",0,0,0
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2015,"0","0","59.408","0.004",-0.554,-0.168,-0.463
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2016,"0","0","73.159","0.001",-0.7,0.231,-0.756
+"Non-CDHP","Prescription Drugs","Smooth Muscle Relaxants",2017,"0","0","22.104","0.001",-0.762,-0.698,-0.211
+"Non-CDHP","Prescription Drugs","Vaccines",2014,"1.456","0.045","1,309.14","1.112",0,0,0
+"Non-CDHP","Prescription Drugs","Vaccines",2015,"1.576","0.054","1,315.45","1.198",0.082,0.005,0.077
+"Non-CDHP","Prescription Drugs","Vaccines",2016,"1.604","0.055","1,462.85","1.097",0.018,0.112,-0.085
+"Non-CDHP","Prescription Drugs","Vaccines",2017,"1.785","0.051","1,536.60","1.162",0.113,0.05,0.059
+"Non-CDHP","Prescription Drugs","Vaccines",2014,"1.367","0.045","1,243.50","1.1",0,0,0
+"Non-CDHP","Prescription Drugs","Vaccines",2015,"1.516","0.053","1,277.16","1.187",0.109,0.027,0.08
+"Non-CDHP","Prescription Drugs","Vaccines",2016,"1.589","0.047","1,570.20","1.012",0.048,0.229,-0.148
+"Non-CDHP","Prescription Drugs","Vaccines",2017,"1.761","0.041","1,663.14","1.059",0.109,0.059,0.047
+"Non-CDHP","Prescription Drugs","Vaccines",2014,"0.089","0.001","7,021.59","0.013",0,0,0
+"Non-CDHP","Prescription Drugs","Vaccines",2015,"0.06","0.001","5,491.19","0.011",-0.326,-0.218,-0.138
+"Non-CDHP","Prescription Drugs","Vaccines",2016,"0.016","0.008","182.883","0.085",-0.74,-0.967,6.792
+"Non-CDHP","Prescription Drugs","Vaccines",2017,"0.024","0.01","232.466","0.103",0.539,0.271,0.211
+"Non-CDHP","Prescription Drugs","Vitamins",2014,"2.818","1.198","22.006","128.073",0,0,0
+"Non-CDHP","Prescription Drugs","Vitamins",2015,"3.106","1.173","23.679","131.165",0.102,0.076,0.024
+"Non-CDHP","Prescription Drugs","Vitamins",2016,"2.614","1.112","19.974","130.856",-0.158,-0.156,-0.002
+"Non-CDHP","Prescription Drugs","Vitamins",2017,"2.537","0.956","18.819","134.828",-0.029,-0.058,0.03
+"Non-CDHP","Prescription Drugs","Vitamins",2014,"0.869","0.253","123.565","7.03",0,0,0
+"Non-CDHP","Prescription Drugs","Vitamins",2015,"1.055","0.262","149.097","7.074",0.214,0.207,0.006
+"Non-CDHP","Prescription Drugs","Vitamins",2016,"1.137","0.251","198.004","5.743",0.078,0.328,-0.188
+"Non-CDHP","Prescription Drugs","Vitamins",2017,"1.2","0.247","220.543","5.443",0.056,0.114,-0.052
+"Non-CDHP","Prescription Drugs","Vitamins",2014,"1.553","0.926","12.868","120.664",0,0,0
+"Non-CDHP","Prescription Drugs","Vitamins",2015,"1.501","0.894","12.127","123.814",-0.033,-0.058,0.026
+"Non-CDHP","Prescription Drugs","Vitamins",2016,"1.463","0.859","11.703","125.034",-0.025,-0.035,0.01
+"Non-CDHP","Prescription Drugs","Vitamins",2017,"1.333","0.708","10.308","129.342",-0.089,-0.119,0.034
+"Non-CDHP","Prescription Drugs","Vitamins",2014,"0.397","0.019","1,049.20","0.378",0,0,0
+"Non-CDHP","Prescription Drugs","Vitamins",2015,"0.55","0.017","1,983.30","0.277",0.385,0.89,-0.267
+"Non-CDHP","Prescription Drugs","Vitamins",2016,"0.013","0.002","168.436","0.079",-0.976,-0.915,-0.715
+"Non-CDHP","Prescription Drugs","Vitamins",2017,"0.004","0.001","82.66","0.043",-0.733,-0.509,-0.457
